@@ -1,0 +1,477 @@
+Estimate.ID,Study.ID,Vert,Thermy,Phylum,Class,Order,Family,Genus,species.epithet,phylo,D.W,L.F,Behavior,N,N.C,Heritability,Zr
+1,40186,IV,Ecto,Annelida,Polychaeta,Canalipalpata,Serpulidae,Hydroides,dianthus,Hydroides_dianthus,W,L,Migration,110,100,0.68,0.829114038
+2,20006,IV,Ecto,Arthropoda,Arachnida,Araneae,Agelenidae,Agelenopsis,pennsylvanica,Agelenopsis_pennsylvanica,W,L,Aggression,54,54,0.27,0.276863823
+3,20006,IV,Ecto,Arthropoda,Arachnida,Araneae,Agelenidae,Agelenopsis,pennsylvanica,Agelenopsis_pennsylvanica,W,L,Boldness,54,54,0.1,0.100335348
+4,10001,IV,Ecto,Arthropoda,Arachnida,Araneae,Araneidae,Larinioides,sclopetarius,Larinioides_sclopetarius,W,L,Activity,331,100,0.107,0.107411176
+5,10001,IV,Ecto,Arthropoda,Arachnida,Araneae,Araneidae,Larinioides,sclopetarius,Larinioides_sclopetarius,W,L,Aggression,301,100,0.025,0.02500521
+6,10001,IV,Ecto,Arthropoda,Arachnida,Araneae,Araneidae,Larinioides,sclopetarius,Larinioides_sclopetarius,W,L,Aggression,331,100,0.381,0.40122894
+7,10001,IV,Ecto,Arthropoda,Arachnida,Araneae,Araneidae,Larinioides,sclopetarius,Larinioides_sclopetarius,W,L,Boldness,331,100,0.038,0.038018307
+8,10001,IV,Ecto,Arthropoda,Arachnida,Araneae,Araneidae,Larinioides,sclopetarius,Larinioides_sclopetarius,W,L,Foraging,301,100,0.121,0.121595763
+9,20007,IV,Ecto,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,undecimpunctata,Diabrotica_undecimpunctata,W,L,Mating,1000,100,0.62,0.725005088
+10,20007,IV,Ecto,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Diabrotica,undecimpunctata,Diabrotica_undecimpunctata,W,L,Mating,1000,100,0.37,0.3884231
+11,20005,IV,Ecto,Arthropoda,Insecta,Coleoptera,Silphidae,Nicrophorus,vespilloides,Nicrophorus_vespilloides,W,L,Parental Effort,250,100,0.2,0.202732554
+12,20005,IV,Ecto,Arthropoda,Insecta,Coleoptera,Silphidae,Nicrophorus,vespilloides,Nicrophorus_vespilloides,W,L,Parental Effort,362,100,0.012,0.012000576
+13,20005,IV,Ecto,Arthropoda,Insecta,Coleoptera,Silphidae,Nicrophorus,vespilloides,Nicrophorus_vespilloides,W,L,Parental Effort,362,100,0.083,0.083191387
+14,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.055,0.055055559
+15,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.1,0.100335348
+16,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.133,0.133792642
+17,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.164,0.165494508
+18,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.366,0.383796543
+19,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.079,0.079164965
+20,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.107,0.107411176
+21,30060,IV,Ecto,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Tribolium,castaneum,Tribolium_castaneum,W,L,Boldness,8000,100,0.117,0.117538299
+22,40127,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,ananassae,Drosophila_ananassae,W,L,Mating,30,30,0.33,0.342828254
+23,40127,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,ananassae,Drosophila_ananassae,W,L,Mating,30,30,0.26,0.266108407
+24,40127,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,ananassae,Drosophila_ananassae,W,L,Mating,30,30,0.27,0.276863823
+25,40127,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,ananassae,Drosophila_ananassae,W,L,Mating,30,30,0.23,0.234189467
+26,40187,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,melanogaster,Drosophila_melanogaster,W,L,Exploratory,100,100,0.029,0.029008134
+27,40187,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,melanogaster,Drosophila_melanogaster,W,L,Exploratory,100,100,0.023,0.023004057
+28,40187,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae,Drosophila,melanogaster,Drosophila_melanogaster,W,L,Exploratory,100,100,0.065,0.065091774
+29,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,330,100,0.05,0.050041729
+30,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,427,100,0.051,0.051044286
+31,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,458,100,0.098,0.098315551
+32,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,520,100,0.147,0.148072785
+33,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,661,100,0.212,0.215264538
+34,30010,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Mating,747,100,0.261,0.267181208
+35,30051,IV,Ecto,Arthropoda,Insecta,Diptera,Drosophilidae ,Drosophila,melanogaster,Drosophila_melanogaster,D,L,Other,219,100,0.26,0.266108407
+36,40229,IV,Ecto,Arthropoda,Insecta,Diptera,Muscidae,Musca,domestica,Musca_domestica,D,L,Mating,66,66,0.04,0.040021354
+37,40229,IV,Ecto,Arthropoda,Insecta,Diptera,Muscidae,Musca,domestica,Musca_domestica,D,L,Mating,66,66,0.05,0.050041729
+38,40140,IV,Ecto,Arthropoda,Insecta,Diptera,Sepsidae,Sepsis,cynipsea,Sepsis_cynipsea,W,L,Mating,160,100,0.18,0.181982689
+39,40140,IV,Ecto,Arthropoda,Insecta,Diptera,Sepsidae,Sepsis,cynipsea,Sepsis_cynipsea,W,L,Mating,160,100,0.03,0.030009005
+40,40162,IV,Ecto,Arthropoda,Insecta,Hemiptera,Gerridae,Aquarius,remigis,Aquarius_remigis,W,L,Foraging,156,100,0.26,0.266108407
+41,40202,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Braconidae,Cotesia,glomerata,Cotesia_glomerata,W,L,Foraging,40,40,0.184,0.18611973
+42,40202,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Braconidae,Cotesia,glomerata,Cotesia_glomerata,W,L,Foraging,40,40,0.184,0.18611973
+43,40197,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Nasonia,vitripennis,Nasonia_vitripennis,W,L,Mating,1005,100,0.537,0.599930345
+44,40197,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Nasonia,vitripennis,Nasonia_vitripennis,W,L,Mating,1005,100,0.217,0.220505698
+45,40197,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Nasonia,vitripennis,Nasonia_vitripennis,W,L,Mating,1005,100,0.553,0.622692614
+46,40197,IV,Ecto,Arthropoda,Insecta,Hymenoptera,Pteromalidae,Nasonia,vitripennis,Nasonia_vitripennis,W,L,Mating,1005,100,0.82,1.156817465
+47,40193,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Pyralidae,Achroia,grisella,Achroia_grisella,W,L,Mating,60,60,0.212,0.215264538
+48,40123,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Torticidae,Grapholita,molesta,Grapholita_molesta,W,L,Mating,400,100,0.37,0.3884231
+49,40059,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Torticidae,Lobesia,botrana,Lobesia_botrana,D,L,Mating,300,100,0.41,0.435611223
+50,40059,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Torticidae,Lobesia,botrana,Lobesia_botrana,D,L,Mating,300,100,0.53,0.59014516
+51,40059,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Torticidae,Lobesia,botrana,Lobesia_botrana,D,L,Mating,300,100,0.4,0.42364893
+52,10004,IV,Ecto,Arthropoda,Insecta,Lepidoptera,Tortricidae,Grapholita, molesta,Grapholita_molesta,W,L,Parental Effort,400,100,0.37,0.3884231
+53,20001,IV,Ecto,Arthropoda,Insecta,Odonata,Coenagrionidae,Enallagma,geminatum,Enallagma_geminatum,W,F,Boldness,770,100,0.23,0.234189467
+54,20001,IV,Ecto,Arthropoda,Insecta,Odonata,Coenagrionidae,Enallagma,geminatum,Enallagma_geminatum,W,F,Boldness,770,100,0.24,0.244774113
+55,20001,IV,Ecto,Arthropoda,Insecta,Odonata,Coenagrionidae,Enallagma,hageni,Enallagma_hageni,W,F,Boldness,770,100,0.28,0.287682072
+56,20001,IV,Ecto,Arthropoda,Insecta,Odonata,Coenagrionidae,Enallagma,hageni,Enallagma_hageni,W,F,Boldness,770,100,0.14,0.140925576
+57,10009,IV,Ecto,Arthropoda,Insecta,Orthoptera,Grillidae,Gryllus,integer,Gryllus_integer,D,L,Boldness,538,100,0.11,0.110446916
+58,10009,IV,Ecto,Arthropoda,Insecta,Orthoptera,Grillidae,Gryllus,integer,Gryllus_integer,W,L,Boldness,538,100,0.06,0.060072156
+59,10011,V,Ecto,Chordata,Actinopterygii,Cichliformes,Cichlidae,Amatitlania,siquia,Amatitlania_siquia,W,L,Boldness,167,100,0.37,0.3884231
+60,10011,V,Ecto,Chordata,Actinopterygii,Cichliformes,Cichlidae,Amatitlania,siquia,Amatitlania_siquia,W,L,Exploratory,167,100,0.3,0.309519604
+61,10024,V,Ecto,Chordata,Actinopterygii,Cichliformes,Cichlidae,Neolamprologus,pulcher,Neolamprologus_pulcher,W,L,Parental Effort,3175,100,0.0006,0.0006
+62,10024,V,Ecto,Chordata,Actinopterygii,Cichliformes,Cichlidae,Neolamprologus,pulcher,Neolamprologus_pulcher,W,L,Parental Effort,3175,100,0.001,0.001
+63,10024,V,Ecto,Chordata,Actinopterygii,Cichliformes,Cichlidae,Neolamprologus,pulcher,Neolamprologus_pulcher,W,L,Parental Effort,3175,100,0.0004,0.0004
+64,10005,V,Ecto,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Danio,rerio,Danio_rerio,S,L,Activity,482,100,0.76,0.996215082
+65,10005,V,Ecto,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Danio,rerio,Danio_rerio,S,L,Aggression,482,100,0.36,0.376885901
+66,30004,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Fundulidae ,Lucania,goodei ,Lucania_goodei,W,L,Aggression,192,100,0.17,0.171666664
+67,30004,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Fundulidae ,Lucania,goodei ,Lucania_goodei,W,L,Aggression,192,100,0.21,0.213171347
+68,30004,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Fundulidae ,Lucania,goodei ,Lucania_goodei,W,L,Mating,192,100,0.29,0.298566264
+69,30004,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Fundulidae ,Lucania,goodei ,Lucania_goodei,W,L,Mating,192,100,0.5,0.549306144
+70,10023,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,1680,100,0.03,0.030009005
+71,10023,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,1680,100,0.07,0.070114671
+72,10023,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,1680,100,0.304,0.313921041
+73,10023,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,1680,100,0.249,0.254346429
+74,10019,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,508,100,0.26,0.266108407
+75,10019,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,508,100,0.27,0.276863823
+76,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+77,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+78,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.103,0.103366579
+79,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+80,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.016,0.016001366
+81,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+82,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.111,0.111459277
+83,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.061,0.06107583
+84,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+85,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+86,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.052,0.052046946
+87,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+88,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+89,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.079,0.079164965
+90,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.03,0.030009005
+91,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.057,0.057061852
+92,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+93,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.003,0.003000009
+94,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+95,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.265,0.271478451
+96,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0,0
+97,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.02,0.020002667
+98,40161,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Mating,301,100,0.01,0.010000333
+99,10015,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Xiphophorus,birchmanni,Xiphophorus_birchmanni,W,L,Activity,384,100,0.093,0.093269519
+100,10015,V,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Xiphophorus,birchmanni,Xiphophorus_birchmanni,W,L,Aggression,384,100,0.066,0.066096083
+101,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,464,100,0.307,0.317229857
+102,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,464,100,0.301,0.310618868
+103,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,464,100,0.242,0.246897438
+104,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,464,100,0.249,0.254346429
+105,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,577,100,0.124,0.12464147
+106,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,577,100,0.026,0.026005861
+107,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,577,100,0.025,0.02500521
+108,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,577,100,0.135,0.135829211
+109,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,29,29,0.048,0.048036915
+110,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Activity,42,42,0.156,0.157284277
+111,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Aggression,29,29,0.011,0.011000444
+112,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Aggression,42,42,0.14,0.140925576
+113,10014,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,443,100,0.138,0.138886172
+114,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,464,100,0.353,0.368866667
+115,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,464,100,0.282,0.289853534
+116,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,577,100,0.267,0.273630739
+117,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,577,100,0.18,0.181982689
+118,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,29,29,0.036,0.036015564
+119,40213,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Boldness,42,42,0.002,0.002000003
+120,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,464,100,0.172,0.173726908
+121,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,464,100,0.138,0.138886172
+122,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,577,100,0.219,0.22260549
+123,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,577,100,0.329,0.341706461
+124,40216,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,446,100,0.14,0.140925576
+125,40216,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,446,100,0.45,0.484700279
+126,40216,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Exploratory,566,100,0.07,0.070114671
+127,10014,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,443,100,0.173,0.174757577
+128,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,464,100,0.196,0.198569333
+129,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,464,100,0.326,0.33834603
+130,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,464,100,0.418,0.44526613
+131,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,464,100,0.225,0.228916547
+132,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,577,100,0.051,0.051044286
+133,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,577,100,0.193,0.195451377
+134,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,577,100,0.236,0.240533924
+135,20009,V,Ecto,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,Gasterosteus_aculeatus,W,L,Social,577,100,0.033,0.033011987
+136,40226,V,Ecto,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo,salar,Salmo_salar,W,L,Migration,866,100,0.46,0.497311288
+137,40230,V,Ecto,Chordata,Amphibia,Anura,Ranidae,Rana,sylvatica,Rana_sylvatica,W,L,Activity,75,75,0,0
+138,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.17,0.171666664
+139,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.05,0.050041729
+140,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.26,0.266108407
+141,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.39,0.411800034
+142,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.32,0.331647109
+143,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.13,0.13073985
+144,40027,V,Ecto,Chordata,Amphibia,Caudata,Plethodontidae,Plethodon,cinereus,Plethodon_cinereus,W,L,Foraging,175,100,0.15,0.151140436
+145,10021,V,Endo,Chordata,Aves,Apodiformes,Apodidae,Tachymarptis ,melba,Tachymarptis_melba,W,F,Boldness,59,59,0.146,0.147050852
+146,40034,V,Endo,Chordata,Aves,Charadriiformes,Laridae,Larus,michahellis,Larus_michahellis,W,F,Parental Effort,179,100,0.33,0.342828254
+147,10010,V,Endo,Chordata,Aves,Charadriiformes,Laridae,Sterna,hirundo,Sterna_hirundo,W,F,Migration,604,100,0.17,0.171666664
+148,10010,V,Endo,Chordata,Aves,Charadriiformes,Laridae,Sterna,hirundo,Sterna_hirundo,W,F,Migration,918,100,0.23,0.234189467
+149,10010,V,Endo,Chordata,Aves,Charadriiformes,Laridae,Sterna,hirundo,Sterna_hirundo,W,F,Migration,2767,100,0.1,0.100335348
+150,40007,V,Endo,Chordata,Aves,Falconiformes,Falconidae,Falco,naumanni,Falco_naumanni,W,F,Migration,4965,100,0.53,0.59014516
+151,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Activity,550,100,0.35,0.365443754
+152,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Activity,550,100,0.6,0.693147181
+153,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.1,0.100335348
+154,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.38,0.40005965
+155,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0,0
+156,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.27,0.276863823
+157,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.09,0.090244188
+158,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.32,0.331647109
+159,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.16,0.161386696
+160,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.22,0.223656109
+161,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.15,0.151140436
+162,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.12,0.120581028
+163,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.16,0.161386696
+164,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.08,0.080171325
+165,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.3,0.309519604
+166,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.13,0.13073985
+167,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.15,0.151140436
+168,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.49,0.536060337
+169,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.18,0.181982689
+170,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.38,0.40005965
+171,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.07,0.070114671
+172,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.35,0.365443754
+173,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.2,0.202732554
+174,40125,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,550,100,0.45,0.484700279
+175,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Activity,714,100,0.09,0.090244188
+176,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Activity,869,100,0.14,0.140925576
+177,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Activity,892,100,0.07,0.070114671
+178,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Aggression,938,100,0.27,0.276863823
+179,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,858,100,0.08,0.080171325
+180,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,860,100,0.18,0.181982689
+181,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,860,100,0.17,0.171666664
+182,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,393,100,0.14,0.140925576
+183,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,939,100,0.14,0.140925576
+184,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,939,100,0.11,0.110446916
+185,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Boldness,939,100,0.1,0.100335348
+186,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,711,100,0.02,0.020002667
+187,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,711,100,0.05,0.050041729
+188,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,712,100,0.11,0.110446916
+189,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,712,100,0.14,0.140925576
+190,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,714,100,0.06,0.060072156
+191,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,718,100,0.07,0.070114671
+192,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Foraging,718,100,0.04,0.040021354
+193,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,703,100,0.09,0.090244188
+194,10007,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Other,714,100,0.1,0.100335348
+195,20003,V,Endo,Chordata,Aves,Galliformes,Phasianidae,Gallus,gallus,Gallus_gallus,D,L,Social,938,100,0.14,0.140925576
+196,10012,V,Ecto,Chordata,Aves,Passeriformes,Acrocephalidae,Acrocephalus,sechellensis,Acrocephalus_sechellensis,W,F,Exploratory,684,100,0,0
+197,10012,V,Ecto,Chordata,Aves,Passeriformes,Acrocephalidae,Acrocephalus,sechellensis,Acrocephalus_sechellensis,W,F,Exploratory,786,100,0.17,0.171666664
+198,10022,V,Endo,Chordata,Aves,Passeriformes,Aegithalidae,Aegithalos,caudatus,Aegithalos_caudatus,W,F,Parental Effort,261,100,0.55,0.618381314
+199,40077,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Boldness,530,100,0.27,0.276863823
+200,40077,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Boldness,530,100,0.38,0.40005965
+201,40053,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Communication,40,40,0.98,2.297559925
+202,40053,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Communication,40,40,0.602,0.696278061
+203,40169,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,208,100,0.085,0.0852056
+204,40169,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,208,100,0,0
+205,40169,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,208,100,0,0
+206,40169,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,208,100,0.269,0.275785504
+207,40169,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,208,100,0,0
+208,40183,V,Endo,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,guttata,Taeniopygia_guttata,S,L,Mating,352,100,0.1,0.100335348
+209,30011,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Mating,62,62,0.29,0.298566264
+210,30011,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Mating,89,89,0.81,1.127029026
+211,30011,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Mating,89,89,0.17,0.171666664
+212,30011,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Mating,89,89,0.14,0.140925576
+213,10016,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,rustica,Hirundo_rustica,W,F,Migration,98,98,0.536,0.598526181
+214,40054,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,Petrochelidon_pyrrhonota,W,F,Other,327,100,0.4332,0.463829239
+215,40054,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,Petrochelidon_pyrrhonota,W,F,Other,346,100,0.4134,0.439705136
+216,40054,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,Petrochelidon_pyrrhonota,W,F,Other,392,100,0.4152,0.441878117
+217,20008,V,Endo,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,albicollis,Ficedula_albicollis,W,F,Migration,999,100,0.298,0.307323247
+218,20010,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Aggression,679,100,0.26,0.266108407
+219,20010,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Aggression,679,100,0.266,0.272554287
+220,10017,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Exploratory,25,25,0.247,0.252215359
+221,10017,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,L,Exploratory,414,100,0.545,0.611240885
+222,10025,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Exploratory,1110,100,0.226,0.229970121
+223,10025,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Exploratory,1110,100,0.281,0.288767472
+224,30064,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Exploratory,688,100,0.1,0.100335348
+225,40021,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,F,Exploratory,1070,100,0.61,0.708921359
+226,40211,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,L,Exploratory,1110,100,0.226,0.229970121
+227,40211,V,Endo,Chordata,Aves,Passeriformes,Paridae,Parus,major,Parus_major,W,L,Exploratory,1110,100,0.281,0.288767472
+228,40165,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,D,L,Parental Effort,6,6,0.27,0.276863823
+229,40165,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,D,L,Parental Effort,7,7,0.01,0.010000333
+230,40165,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,D,L,Parental Effort,9,9,0.34,0.354092529
+231,40165,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,D,L,Parental Effort,27,27,0.27,0.276863823
+232,40217,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,D,L,Parental Effort,14,14,0.3,0.309519604
+233,40166,V,Endo,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Sialia_mexicana,W,F,Migration,109,100,0.6,0.693147181
+234,40166,V,Endo,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Sialia_mexicana,W,F,Migration,109,100,0.52,0.576339755
+235,40166,V,Endo,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Sialia_mexicana,W,F,Migration,109,100,0.34,0.354092529
+236,10018,V,Endo,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Sialia_mexicana,W,F,Parental Effort,1593,100,0.76,0.996215082
+237,10018,V,Endo,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Sialia_mexicana,W,F,Parental Effort,1593,100,0.32,0.331647109
+238,40006,V,Endo,Chordata,Aves,Piciformes,Picidae,Picoides,borealis,Picoides_borealis,W,F,Migration,1446,100,0.88,1.375767657
+239,40006,V,Endo,Chordata,Aves,Piciformes,Picidae,Picoides,borealis,Picoides_borealis,W,F,Migration,1446,100,0.17,0.171666664
+240,40006,V,Endo,Chordata,Aves,Piciformes,Picidae,Picoides,borealis,Picoides_borealis,W,F,Migration,1446,100,0.3,0.309519604
+241,40006,V,Endo,Chordata,Aves,Piciformes,Picidae,Picoides,borealis,Picoides_borealis,W,F,Migration,1446,100,0.19,0.192337169
+242,30053,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,taurus,Bos_taurus,D,L,Aggression,8159,100,0.265,0.271478451
+243,10003,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,aries,Ovis_aries,D,L,Activity,11092,100,0.4,0.42364893
+244,10003,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,aries,Ovis_aries,D,L,Other,11092,100,0.26,0.266108407
+245,10003,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,aries,Ovis_aries,D,L,Other,11092,100,0.32,0.331647109
+246,40228,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,canadensis,Ovis_canadensis,W,F,Aggression,105,100,0.31,0.320545409
+247,40228,V,Endo,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,canadensis,Ovis_canadensis,W,F,Boldness,105,100,0.34,0.354092529
+248,40129,V,Endo,Chordata,Mammalia,Artiodactyla,Suidae,Sus,scrofa,Sus_scrofa,D,L,Aggression,341,100,0.37,0.3884231
+249,40129,V,Endo,Chordata,Mammalia,Artiodactyla,Suidae,Sus,scrofa,Sus_scrofa,D,L,Aggression,341,100,0.17,0.171666664
+250,40129,V,Endo,Chordata,Mammalia,Artiodactyla,Suidae,Sus,scrofa,Sus_scrofa,D,L,Aggression,341,100,0.46,0.497311288
+251,30047,V,Endo,Chordata,Mammalia,Carnivora,Haenidae,Crocuta,crocuta,Crocuta_crocuta,W,F,Aggression,140,100,0.026,0.026005861
+252,30047,V,Endo,Chordata,Mammalia,Carnivora,Haenidae,Crocuta,crocuta,Crocuta_crocuta,W,F,Aggression,156,100,0.32,0.331647109
+253,30047,V,Endo,Chordata,Mammalia,Carnivora,Haenidae,Crocuta,crocuta,Crocuta_crocuta,W,F,Boldness,185,100,0.0416,0.041624022
+254,30047,V,Endo,Chordata,Mammalia,Carnivora,Haenidae,Crocuta,crocuta,Crocuta_crocuta,W,F,Communication,218,100,0.16,0.161386696
+255,30047,V,Endo,Chordata,Mammalia,Carnivora,Haenidae,Crocuta,crocuta,Crocuta_crocuta,W,F,Communication,218,100,0.09,0.090244188
+256,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+257,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.25,0.255412812
+258,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.21,0.213171347
+259,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.29,0.298566264
+260,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.28,0.287682072
+261,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.13,0.13073985
+262,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.39,0.411800034
+263,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.16,0.161386696
+264,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.18,0.181982689
+265,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.19,0.192337169
+266,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.33,0.342828254
+267,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.21,0.213171347
+268,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.51,0.562729769
+269,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.17,0.171666664
+270,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.17,0.171666664
+271,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.3,0.309519604
+272,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+273,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.33,0.342828254
+274,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.24,0.244774113
+275,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.11,0.110446916
+276,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.12,0.120581028
+277,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.15,0.151140436
+278,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.12,0.120581028
+279,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+280,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.22,0.223656109
+281,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.21,0.213171347
+282,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.16,0.161386696
+283,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+284,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.22,0.223656109
+285,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.16,0.161386696
+286,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.24,0.244774113
+287,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.32,0.331647109
+288,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.38,0.40005965
+289,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.18,0.181982689
+290,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.28,0.287682072
+291,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.14,0.140925576
+292,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.19,0.192337169
+293,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.3,0.309519604
+294,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.29,0.298566264
+295,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.13,0.13073985
+296,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.36,0.376885901
+297,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.3,0.309519604
+298,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.38,0.40005965
+299,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.12,0.120581028
+300,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.28,0.287682072
+301,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.32,0.331647109
+302,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.15,0.151140436
+303,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.3,0.309519604
+304,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.29,0.298566264
+305,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.5,0.549306144
+306,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.28,0.287682072
+307,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.22,0.223656109
+308,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.32,0.331647109
+309,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.37,0.3884231
+310,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.19,0.192337169
+311,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.31,0.320545409
+312,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.24,0.244774113
+313,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+314,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.2,0.202732554
+315,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.24,0.244774113
+316,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.21,0.213171347
+317,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.23,0.234189467
+318,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.2,0.202732554
+319,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.14,0.140925576
+320,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.27,0.276863823
+321,30025,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Papio,anubis x cynocephalus,Papio_anubis,W,F,Other,578,100,0.22,0.223656109
+322,40133,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes ,Pan_troglodytes,W,L,Aggression,145,100,0.055,0.055055559
+323,40133,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes ,Pan_troglodytes,W,L,Aggression,145,100,0.221,0.224707214
+324,40133,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes ,Pan_troglodytes,W,L,Aggression,145,100,0.796,1.087598628
+325,40133,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes ,Pan_troglodytes,W,L,Other,145,100,0.054,0.05405258
+326,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+327,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.14,0.140925576
+328,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.19,0.192337169
+329,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.14,0.140925576
+330,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.25,0.255412812
+331,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.69,0.847955755
+332,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+333,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.82,1.156817465
+334,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.16,0.161386696
+335,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.71,0.887183863
+336,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.18,0.181982689
+337,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+338,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.19,0.192337169
+339,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.18,0.181982689
+340,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.15,0.151140436
+341,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.26,0.266108407
+342,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.72,0.907644983
+343,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+344,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.78,1.045370548
+345,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.19,0.192337169
+346,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.78,1.045370548
+347,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.21,0.213171347
+348,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.13,0.13073985
+349,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.25,0.255412812
+350,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+351,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.16,0.161386696
+352,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.29,0.298566264
+353,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.67,0.810743125
+354,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.23,0.234189467
+355,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.66,0.792813632
+356,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+357,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.73,0.928727364
+358,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.3,0.309519604
+359,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.29,0.298566264
+360,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.28,0.287682072
+361,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.23,0.234189467
+362,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.16,0.161386696
+363,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.27,0.276863823
+364,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.64,0.758173745
+365,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.29,0.298566264
+366,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.69,0.847955755
+367,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.28,0.287682072
+368,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.73,0.928727364
+369,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.35,0.365443754
+370,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+371,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.21,0.213171347
+372,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.23,0.234189467
+373,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.15,0.151140436
+374,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.25,0.255412812
+375,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.68,0.829114038
+376,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.22,0.223656109
+377,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.69,0.847955755
+378,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.29,0.298566264
+379,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.7,0.867300528
+380,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.3,0.309519604
+381,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.18,0.181982689
+382,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.24,0.244774113
+383,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.19,0.192337169
+384,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.18,0.181982689
+385,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.15,0.151140436
+386,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.19,0.192337169
+387,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.72,0.907644983
+388,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.24,0.244774113
+389,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.77,1.020327758
+390,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.23,0.234189467
+391,40084,V,Endo,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus/abelii,Pongo_pygmaeus,W,L,Other,174,100,0.78,1.045370548
+392,40215,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,maniculatus,Peromyscus_maniculatus,W,L,Boldness,105,100,0.12,0.120581028
+393,30061,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus ,maniculatus,Peromyscus_maniculatus,W,L,Aggression,126,100,0.202,0.204816759
+394,30061,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus ,maniculatus,Peromyscus_maniculatus,W,L,Aggression,126,100,0.033,0.033011987
+395,30061,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus ,maniculatus,Peromyscus_maniculatus,W,L,Aggression,126,100,0.036,0.036015564
+396,30061,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus ,maniculatus,Peromyscus_maniculatus,W,L,Aggression,126,100,0.098,0.098315551
+397,30061,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus ,maniculatus,Peromyscus_maniculatus,W,L,Aggression,126,100,0.05,0.050041729
+398,40152,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Phodopus,sungorus,Phodopus_sungorus,W,L,Activity,50,50,0.07,0.070114671
+399,40152,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Phodopus,sungorus,Phodopus_sungorus,W,L,Exploratory,50,50,0.18,0.181982689
+400,40235,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Tamiasciurus,hudsonicus,Tamiasciurus_hudsonicus,W,F,Activity,366,100,0.08,0.080171325
+401,40235,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Tamiasciurus,hudsonicus,Tamiasciurus_hudsonicus,W,F,Aggression,366,100,0.12,0.120581028
+402,40235,V,Endo,Chordata,Mammalia,Rodentia,Cricetidae,Tamiasciurus,hudsonicus,Tamiasciurus_hudsonicus,W,F,Aggression,366,100,0.09,0.090244188
+403,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,366,100,0.34,0.354092529
+404,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,379,100,0.18,0.181982689
+405,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,783,100,0.23,0.234189467
+406,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,787,100,0.21,0.213171347
+407,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,847,100,0.25,0.255412812
+408,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,891,100,0.18,0.181982689
+409,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,2063,100,0.11,0.110446916
+410,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,2124,100,0.18,0.181982689
+411,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,2139,100,0.15,0.151140436
+412,10013,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,2219,100,0.14,0.140925576
+413,40134,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Activity,1260,100,0.44,0.472230804
+414,20002,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,W,L,Aggression,117,100,0.58,0.662462707
+415,40100,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Parental Effort,74,74,0.09,0.090244188
+416,40100,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Parental Effort,74,74,0.13,0.13073985
+417,40100,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Parental Effort,74,74,0.24,0.244774113
+418,40100,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Parental Effort,74,74,0.35,0.365443754
+419,40117,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,Mus_musculus,D,L,Parental Effort,52,52,0.14,0.140925576
+420,40128,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Rattus,norvegicus,Rattus_norvegicus,D,L,Boldness,120,100,0.358,0.374590002
+421,40132,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Rattus,norvegicus,Rattus_norvegicus,D,L,Other,20,20,0.563,0.637214568
+422,40132,V,Endo,Chordata,Mammalia,Rodentia,Muridae,Rattus,norvegicus,Rattus_norvegicus,D,L,Other,20,20,0.051,0.051044286
+423,40214,V,Endo,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,flaviventris,Marmota_flaviventris,W,F,Activity,187,100,0.21,0.213171347
+424,40214,V,Endo,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,flaviventris,Marmota_flaviventris,W,F,Boldness,315,100,0.08,0.080171325
+425,20004,V,Ecto,Chordata,Reptilia,Squamata,Scincidae,Eulamprus,quoyii,Eulamprus_quoyii,W,F,Activity,670,100,0.374,0.393065551
+426,20004,V,Ecto,Chordata,Reptilia,Squamata,Scincidae,Eulamprus,quoyii,Eulamprus_quoyii,W,F,Activity,675,100,0.001,0.001
+427,30039,V,Ecto,Chordata,Reptilia ,Squamata,Lacertidae,Zootoca,vivipara,Zootoca_vivipara,W,F,Activity,59,59,0.41,0.435611223
+428,30062,V,Ecto,Chordata,Reptilia ,Testudines,Emydidae,Chrysemys,picta,Chrysemys_picta,W,F,Parental Effort,631,100,0,0
+429,30062,V,Ecto,Chordata,Reptilia ,Testudines,Emydidae,Chrysemys,picta,Chrysemys_picta,W,F,Parental Effort,631,100,0.043,0.043026532
+430,10002,IV,Ecto,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.34,0.354092529
+431,10002,IV,Ecto,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.51,0.562729769
+432,10002,IV,Ecto,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.36,0.376885901
+433,10002,IV,Ecto,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.57,0.647522845
+434,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0,0
+435,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.57,0.647522845
+436,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.1,0.100335348
+437,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.36,0.376885901
+438,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.28,0.287682072
+439,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.08,0.080171325
+440,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.34,0.354092529
+441,40014,IV,Ecto,Mollusca,Bivalvia,Pectinidae,Pectinidae,Argopecten,purpuratus,Argopecten_purpuratus,W,L,Boldness,165,100,0.24,0.244774113
+442,40232,IV,Ecto,Mollusca,Cephalopoda,Sepiidae,Sepiolidae,Euprymna,tasmanica,Euprymna_tasmanica,W,L,Activity,97,97,0.047,0.047034654
+443,40232,IV,Ecto,Mollusca,Cephalopoda,Sepiidae,Sepiolidae,Euprymna,tasmanica,Euprymna_tasmanica,W,L,Activity,97,97,0.674,0.818036935
+444,40232,IV,Ecto,Mollusca,Cephalopoda,Sepiidae,Sepiolidae,Euprymna,tasmanica,Euprymna_tasmanica,W,L,Boldness,97,97,0.079,0.079164965
+445,40232,IV,Ecto,Mollusca,Cephalopoda,Sepiidae,Sepiolidae,Euprymna,tasmanica,Euprymna_tasmanica,W,L,Boldness,97,97,0.891,1.426756593
+446,40232,IV,Ecto,Mollusca,Cephalopoda,Sepiidae,Sepiolidae,Euprymna,tasmanica,Euprymna_tasmanica,W,L,Boldness,97,97,0.213,0.21631183
+447,50005,V,Endo,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,mulatta,Macaca_mulatta,W,F,Mating,847,100,0.204,0.20690272
+448,50008,V,Endo,Chordata,Aves,Passeriformes,Paridae,Cyanistes,caeruleus,Cyanistes_caeruleus,W,F,Aggression,1841,100,0.35,0.365443754
+449,50008,V,Endo,Chordata,Aves,Passeriformes,Paridae,Cyanistes,caeruleus,Cyanistes_caeruleus,W,F,Aggression,1743,100,0.2,0.202732554
+450,50010,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,Girardinichthys,multiradiatus,Girardinichthys_multiradiatus,W,L,Mating,54,54,0.18,0.181982689
+451,50010,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Goodeidae,Girardinichthys,multiradiatus,Girardinichthys_multiradiatus,W,L,Mating,46,46,0.32,0.331647109
+452,50016,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Foraging,41,41,0.176,0.177851799
+453,50016,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Foraging,41,41,0.214,0.21735959
+454,50016,V,Endo,Chordata,Aves,Passeriformes,Fringillidae,Serinus,canaria,Serinus_canaria,W,L,Foraging,40,40,0.158,0.159334822
+455,50021,V,Ecto,Chordata,Amphibia,Anura,Bufonidae,Rhinella,marina,Rhinella_marina,W,L,Boldness,273,100,0.3,0.309519604
+456,50021,V,Ecto,Chordata,Amphibia,Anura,Bufonidae,Rhinella,marina,Rhinella_marina,W,L,Exploratory,273,100,0.26,0.266108407
+457,50021,V,Ecto,Chordata,Amphibia,Anura,Bufonidae,Rhinella,marina,Rhinella_marina,W,L,Other,273,100,0.32,0.331647109
+458,50021,V,Ecto,Chordata,Amphibia,Anura,Bufonidae,Rhinella,marina,Rhinella_marina,W,L,Exploratory,273,100,0.23,0.234189467
+459,50021,V,Ecto,Chordata,Amphibia,Anura,Bufonidae,Rhinella,marina,Rhinella_marina,W,L,Boldness,273,100,0.47,0.510070337
+460,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,23,23,0.66,0.792813632
+461,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.57,0.647522845
+462,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.62,0.725005088
+463,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,23,23,0.57,0.647522845
+464,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.61,0.708921359
+465,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.59,0.677666068
+466,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,23,23,0.61,0.708921359
+467,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.59,0.677666068
+468,50024,IV,Ecto,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,Poecilia_reticulata,W,L,Foraging,22,22,0.6,0.693147181
+469,50048,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,W,F,Parental Effort,72,72,0.0005,0.0005
+470,50048,V,Endo,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,Passer_domesticus,W,F,Parental Effort,72,72,0.0005,0.0005
+471,50043,V,Endo,Chordata,Mammalia,Rodentia,Scuridiae,Tamias,striatus,Tamias_striatus,W,F,Boldness,217,100,0.17,0.171666664
+472,50035,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,rustica,Hirundo_rustica,W,F,Social,146,100,0.469,0.508787577
+473,50035,V,Endo,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,rustica,Hirundo_rustica,W,F,Social,146,100,0.345,0.359757028
+474,50034,IV,Ecto,Arthropoda,Insecta,Mecoptera,Panorpidae,Panorpa,vulgaris,Panorpa_vulgaris,W,L,Foraging,38,38,0.15,0.151140436
+475,50026,V,Ecto,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo,trutta,Salmo_trutta,W,L,Other,27,27,0.014,0.014000915
+476,50026,V,Ecto,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo,trutta,Salmo_trutta,W,L,Boldness,27,27,0.142,0.142966145

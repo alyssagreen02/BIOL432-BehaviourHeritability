@@ -16,8 +16,10 @@ ii<-sapply(genera,function(x,y) grep(x,y)[1],y=tips)
 tree<-drop.tip(Tree,setdiff(Tree$tip.label,tips[ii]))
 #plotTree(tree,ftype="i")
 tree$tip.label<-sapply(strsplit(tree$tip.label,"_"),function(x) x[1])
-#plotTree(tree,ftype="i")
+plotTree(tree,ftype="i")
 #plot(tree,"radial")
+
+
 
 #### 2. Global Mean, Variance Components & Heterogeneity (Intercept Only) ####
 CorMatrix <- cov2cor(as.matrix(inv.phylo$Ainv))

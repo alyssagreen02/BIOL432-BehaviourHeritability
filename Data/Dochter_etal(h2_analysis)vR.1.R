@@ -3,9 +3,9 @@ library(metafor); library(cowplot);library(plotMCMC)
 library(plyr); library(emmeans); library(dplyr);library(cowplot)
 
 setwd("C:/Users/Dochtermann/Dropbox/Working/Projects/AGA/H2 Revision & Reanalysis")
-Data <- read.csv("Compiled2.csv")
+Data <- read.csv("Data/Compiled2.csv")
 
-Tree<-read.newick("newickNEW.txt")
+Tree<-read.newick("Data/Dochter_etal(TREE).txt")
 
 #### 1. Clean up tree & plotting the tree ####
 Tree$node.label<-NULL; Tree<-collapse.singles(Tree) 
@@ -273,8 +273,8 @@ Meta.DF$Sp2=as.factor(c("Lobesia botrana","Grapholita molesta",
                         "Agelenopsis pennsylvanica","Hydroides dianthus",
                         "Argopecten purpuratus","Euprymna tasmanica",
                         "Rana sylvatica","Rhinella marina",
-                        "Plethodon cinereus","Papio anubis×cynocephalus",
-                        "Macaca mulatta","Pongo pygmaeus×abelii",
+                        "Plethodon cinereus","Papio anubis?cynocephalus",
+                        "Macaca mulatta","Pongo pygmaeus?abelii",
                         "Pan troglodytes","Tamiasciurus hudsonicus",
                         "Marmota flaviventris","Tamias striatus",
                         "Mus musculus","Rattus norvegicus",

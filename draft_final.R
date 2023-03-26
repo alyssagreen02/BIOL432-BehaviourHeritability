@@ -1,13 +1,12 @@
 
 getwd()
-data<-read.csv("/Users/Cameron/Documents/Queens/4th Year/Sem2/BIOL432/Final_proj/BIOL432-BehaviourHeritability/Data/Compiled2.csv")
+data<-read.csv("Data/Compiled2.csv")
 
 library(ape)
 library(dplyr)
 library(lme4)
 library(phytools)
 library(ggplot2)
-install.packages("effects")
 library(effects)
 library(lmtest)
 

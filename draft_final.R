@@ -44,7 +44,7 @@ summary(Mod4)
 
 # Study ID needs to be kept as a random effect because this was a meta analysis and different studies were used. 
 
-Mod5<- lmer(Zr~Behavior + Class*family() + (1 | Study.ID), data=data)
+Mod5<- lmer(Zr~Behavior + Class*Family + (1 | Study.ID), data=data)
 summary(Mod5)
 
 # Test fitted Model for (Near) Singularity - > variances of one or more linear combinations of effects are zero.
@@ -63,8 +63,17 @@ summary(Mod10)
 #Likelihood ratio testing
 lrtest(Mod9, Mod10)
 
+#Likelyhood ratio test for all models
+lrtest(Mod3, Mod4, Mod5, Mod6, Mod7, Mod8, Mod9, Mod10)
+#According to this LRT 
 
 # AIC Testing
+AIC(Mod3) #Lowest AIC value
+AIC(Mod4)
+AIC(Mod5)
+AIC(Mod6)
+AIC(Mod7)
+AIC(Mod8)
 AIC(Mod9)
 AIC(Mod10)
 
@@ -76,8 +85,13 @@ exp(0.5*AIC(Mod9)-0.5*AIC(Mod10))
 # rough visualization of data and models 
 plot(Mod6, type="residuals")
 
-
 ggplot(data, aes(x = Heritability, y = predict(Mod1))) +
+  geom_point() +
+  geom_abline(intercept = 0, slope = 1) +
+  xlab("Observed Heritability") +
+  ylab("Predicted Heritability")
+
+ggplot(data, aes(x = Heritability, y = predict(Mod3))) +
   geom_point() +
   geom_abline(intercept = 0, slope = 1) +
   xlab("Observed Heritability") +
@@ -86,8 +100,8 @@ ggplot(data, aes(x = Heritability, y = predict(Mod1))) +
 # Model not fitting the data
 
 #. Trying a marginal effects model
-
 plot(effect("Behavior", Mod6))
+plot(effect("Behavior", Mod3))
 
-# Lookign at phylogenetic tree
+# Looking at phylogenetic tree
 Tree<-read.newick("Data/Dochter_etal(TREE).txt")

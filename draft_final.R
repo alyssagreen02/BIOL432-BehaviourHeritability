@@ -60,11 +60,15 @@ Mod10 <-lmer(Zr ~ Behavior + species.epithet + (1 | Study.ID), data=data)
 
 summary(Mod10)
 
+#Models with phylogenetic information as random variables
+Mod11=lmer(Zr~Behavior + (1 | Study.ID)+(1 | Family)+(1 | Genus)+(1 | Phylum)+(1 | Class)+(1 | Order), data=data)
+Mod12=lmer(Zr~Behavior +species.epithet +(1 | Study.ID)+(1 | Family)+(1 | Genus)+(1 | Phylum)+(1 | Class)+(1 | Order), data=data)
+
 #Likelihood ratio testing
 lrtest(Mod9, Mod10)
 
 #Likelyhood ratio test for all models
-lrtest(Mod3, Mod4, Mod5, Mod6, Mod7, Mod8, Mod9, Mod10)
+lrtest(Mod3, Mod4, Mod5, Mod6, Mod7, Mod8, Mod9, Mod10, Mod11, Mod12)
 #According to this LRT 
 
 # AIC Testing
@@ -76,6 +80,8 @@ AIC(Mod7)
 AIC(Mod8)
 AIC(Mod9)
 AIC(Mod10)
+AIC(Mod11)
+AIC(Mod12)
 
 AIC(Mod10) - AIC(Mod9)
 
@@ -105,3 +111,4 @@ plot(effect("Behavior", Mod3))
 
 # Looking at phylogenetic tree
 Tree<-read.newick("Data/Dochter_etal(TREE).txt")
+

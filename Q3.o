@@ -1,0 +1,2631 @@
+    Estimate.ID Study.ID Vert Thermy     Phylum          Class
+1             1    40186   IV   Ecto   Annelida     Polychaeta
+2             2    20006   IV   Ecto Arthropoda      Arachnida
+3             3    20006   IV   Ecto Arthropoda      Arachnida
+4             4    10001   IV   Ecto Arthropoda      Arachnida
+5             5    10001   IV   Ecto Arthropoda      Arachnida
+6             6    10001   IV   Ecto Arthropoda      Arachnida
+7             7    10001   IV   Ecto Arthropoda      Arachnida
+8             8    10001   IV   Ecto Arthropoda      Arachnida
+9             9    20007   IV   Ecto Arthropoda        Insecta
+10           10    20007   IV   Ecto Arthropoda        Insecta
+11           11    20005   IV   Ecto Arthropoda        Insecta
+12           12    20005   IV   Ecto Arthropoda        Insecta
+13           13    20005   IV   Ecto Arthropoda        Insecta
+14           14    30060   IV   Ecto Arthropoda        Insecta
+15           15    30060   IV   Ecto Arthropoda        Insecta
+16           16    30060   IV   Ecto Arthropoda        Insecta
+17           17    30060   IV   Ecto Arthropoda        Insecta
+18           18    30060   IV   Ecto Arthropoda        Insecta
+19           19    30060   IV   Ecto Arthropoda        Insecta
+20           20    30060   IV   Ecto Arthropoda        Insecta
+21           21    30060   IV   Ecto Arthropoda        Insecta
+22           22    40127   IV   Ecto Arthropoda        Insecta
+23           23    40127   IV   Ecto Arthropoda        Insecta
+24           24    40127   IV   Ecto Arthropoda        Insecta
+25           25    40127   IV   Ecto Arthropoda        Insecta
+26           26    40187   IV   Ecto Arthropoda        Insecta
+27           27    40187   IV   Ecto Arthropoda        Insecta
+28           28    40187   IV   Ecto Arthropoda        Insecta
+29           29    30010   IV   Ecto Arthropoda        Insecta
+30           30    30010   IV   Ecto Arthropoda        Insecta
+31           31    30010   IV   Ecto Arthropoda        Insecta
+32           32    30010   IV   Ecto Arthropoda        Insecta
+33           33    30010   IV   Ecto Arthropoda        Insecta
+34           34    30010   IV   Ecto Arthropoda        Insecta
+35           35    30051   IV   Ecto Arthropoda        Insecta
+36           36    40229   IV   Ecto Arthropoda        Insecta
+37           37    40229   IV   Ecto Arthropoda        Insecta
+38           38    40140   IV   Ecto Arthropoda        Insecta
+39           39    40140   IV   Ecto Arthropoda        Insecta
+40           40    40162   IV   Ecto Arthropoda        Insecta
+41           41    40202   IV   Ecto Arthropoda        Insecta
+42           42    40202   IV   Ecto Arthropoda        Insecta
+43           43    40197   IV   Ecto Arthropoda        Insecta
+44           44    40197   IV   Ecto Arthropoda        Insecta
+45           45    40197   IV   Ecto Arthropoda        Insecta
+46           46    40197   IV   Ecto Arthropoda        Insecta
+47           47    40193   IV   Ecto Arthropoda        Insecta
+48           48    40123   IV   Ecto Arthropoda        Insecta
+49           49    40059   IV   Ecto Arthropoda        Insecta
+50           50    40059   IV   Ecto Arthropoda        Insecta
+51           51    40059   IV   Ecto Arthropoda        Insecta
+52           52    10004   IV   Ecto Arthropoda        Insecta
+53           53    20001   IV   Ecto Arthropoda        Insecta
+54           54    20001   IV   Ecto Arthropoda        Insecta
+55           55    20001   IV   Ecto Arthropoda        Insecta
+56           56    20001   IV   Ecto Arthropoda        Insecta
+57           57    10009   IV   Ecto Arthropoda        Insecta
+58           58    10009   IV   Ecto Arthropoda        Insecta
+59           59    10011    V   Ecto   Chordata Actinopterygii
+60           60    10011    V   Ecto   Chordata Actinopterygii
+61           61    10024    V   Ecto   Chordata Actinopterygii
+62           62    10024    V   Ecto   Chordata Actinopterygii
+63           63    10024    V   Ecto   Chordata Actinopterygii
+64           64    10005    V   Ecto   Chordata Actinopterygii
+65           65    10005    V   Ecto   Chordata Actinopterygii
+66           66    30004    V   Ecto   Chordata Actinopterygii
+67           67    30004    V   Ecto   Chordata Actinopterygii
+68           68    30004    V   Ecto   Chordata Actinopterygii
+69           69    30004    V   Ecto   Chordata Actinopterygii
+70           70    10023    V   Ecto   Chordata Actinopterygii
+71           71    10023    V   Ecto   Chordata Actinopterygii
+72           72    10023    V   Ecto   Chordata Actinopterygii
+73           73    10023    V   Ecto   Chordata Actinopterygii
+74           74    10019    V   Ecto   Chordata Actinopterygii
+75           75    10019    V   Ecto   Chordata Actinopterygii
+76           76    40161    V   Ecto   Chordata Actinopterygii
+77           77    40161    V   Ecto   Chordata Actinopterygii
+78           78    40161    V   Ecto   Chordata Actinopterygii
+79           79    40161    V   Ecto   Chordata Actinopterygii
+80           80    40161    V   Ecto   Chordata Actinopterygii
+81           81    40161    V   Ecto   Chordata Actinopterygii
+82           82    40161    V   Ecto   Chordata Actinopterygii
+83           83    40161    V   Ecto   Chordata Actinopterygii
+84           84    40161    V   Ecto   Chordata Actinopterygii
+85           85    40161    V   Ecto   Chordata Actinopterygii
+86           86    40161    V   Ecto   Chordata Actinopterygii
+87           87    40161    V   Ecto   Chordata Actinopterygii
+88           88    40161    V   Ecto   Chordata Actinopterygii
+89           89    40161    V   Ecto   Chordata Actinopterygii
+90           90    40161    V   Ecto   Chordata Actinopterygii
+91           91    40161    V   Ecto   Chordata Actinopterygii
+92           92    40161    V   Ecto   Chordata Actinopterygii
+93           93    40161    V   Ecto   Chordata Actinopterygii
+94           94    40161    V   Ecto   Chordata Actinopterygii
+95           95    40161    V   Ecto   Chordata Actinopterygii
+96           96    40161    V   Ecto   Chordata Actinopterygii
+97           97    40161    V   Ecto   Chordata Actinopterygii
+98           98    40161    V   Ecto   Chordata Actinopterygii
+99           99    10015    V   Ecto   Chordata Actinopterygii
+100         100    10015    V   Ecto   Chordata Actinopterygii
+101         101    20009    V   Ecto   Chordata Actinopterygii
+102         102    20009    V   Ecto   Chordata Actinopterygii
+103         103    20009    V   Ecto   Chordata Actinopterygii
+104         104    20009    V   Ecto   Chordata Actinopterygii
+105         105    20009    V   Ecto   Chordata Actinopterygii
+106         106    20009    V   Ecto   Chordata Actinopterygii
+107         107    20009    V   Ecto   Chordata Actinopterygii
+108         108    20009    V   Ecto   Chordata Actinopterygii
+109         109    40213    V   Ecto   Chordata Actinopterygii
+110         110    40213    V   Ecto   Chordata Actinopterygii
+111         111    40213    V   Ecto   Chordata Actinopterygii
+112         112    40213    V   Ecto   Chordata Actinopterygii
+113         113    10014    V   Ecto   Chordata Actinopterygii
+114         114    20009    V   Ecto   Chordata Actinopterygii
+115         115    20009    V   Ecto   Chordata Actinopterygii
+116         116    20009    V   Ecto   Chordata Actinopterygii
+117         117    20009    V   Ecto   Chordata Actinopterygii
+118         118    40213    V   Ecto   Chordata Actinopterygii
+119         119    40213    V   Ecto   Chordata Actinopterygii
+120         120    20009    V   Ecto   Chordata Actinopterygii
+121         121    20009    V   Ecto   Chordata Actinopterygii
+122         122    20009    V   Ecto   Chordata Actinopterygii
+123         123    20009    V   Ecto   Chordata Actinopterygii
+124         124    40216    V   Ecto   Chordata Actinopterygii
+125         125    40216    V   Ecto   Chordata Actinopterygii
+126         126    40216    V   Ecto   Chordata Actinopterygii
+127         127    10014    V   Ecto   Chordata Actinopterygii
+128         128    20009    V   Ecto   Chordata Actinopterygii
+129         129    20009    V   Ecto   Chordata Actinopterygii
+130         130    20009    V   Ecto   Chordata Actinopterygii
+131         131    20009    V   Ecto   Chordata Actinopterygii
+132         132    20009    V   Ecto   Chordata Actinopterygii
+133         133    20009    V   Ecto   Chordata Actinopterygii
+134         134    20009    V   Ecto   Chordata Actinopterygii
+135         135    20009    V   Ecto   Chordata Actinopterygii
+136         136    40226    V   Ecto   Chordata Actinopterygii
+137         137    40230    V   Ecto   Chordata       Amphibia
+138         138    40027    V   Ecto   Chordata       Amphibia
+139         139    40027    V   Ecto   Chordata       Amphibia
+140         140    40027    V   Ecto   Chordata       Amphibia
+141         141    40027    V   Ecto   Chordata       Amphibia
+142         142    40027    V   Ecto   Chordata       Amphibia
+143         143    40027    V   Ecto   Chordata       Amphibia
+144         144    40027    V   Ecto   Chordata       Amphibia
+145         145    10021    V   Endo   Chordata           Aves
+146         146    40034    V   Endo   Chordata           Aves
+147         147    10010    V   Endo   Chordata           Aves
+148         148    10010    V   Endo   Chordata           Aves
+149         149    10010    V   Endo   Chordata           Aves
+150         150    40007    V   Endo   Chordata           Aves
+151         151    40125    V   Endo   Chordata           Aves
+152         152    40125    V   Endo   Chordata           Aves
+153         153    40125    V   Endo   Chordata           Aves
+154         154    40125    V   Endo   Chordata           Aves
+155         155    40125    V   Endo   Chordata           Aves
+156         156    40125    V   Endo   Chordata           Aves
+157         157    40125    V   Endo   Chordata           Aves
+158         158    40125    V   Endo   Chordata           Aves
+159         159    40125    V   Endo   Chordata           Aves
+160         160    40125    V   Endo   Chordata           Aves
+161         161    40125    V   Endo   Chordata           Aves
+162         162    40125    V   Endo   Chordata           Aves
+163         163    40125    V   Endo   Chordata           Aves
+164         164    40125    V   Endo   Chordata           Aves
+165         165    40125    V   Endo   Chordata           Aves
+166         166    40125    V   Endo   Chordata           Aves
+167         167    40125    V   Endo   Chordata           Aves
+168         168    40125    V   Endo   Chordata           Aves
+169         169    40125    V   Endo   Chordata           Aves
+170         170    40125    V   Endo   Chordata           Aves
+171         171    40125    V   Endo   Chordata           Aves
+172         172    40125    V   Endo   Chordata           Aves
+173         173    40125    V   Endo   Chordata           Aves
+174         174    40125    V   Endo   Chordata           Aves
+175         175    10007    V   Endo   Chordata           Aves
+176         176    20003    V   Endo   Chordata           Aves
+177         177    20003    V   Endo   Chordata           Aves
+178         178    20003    V   Endo   Chordata           Aves
+179         179    10007    V   Endo   Chordata           Aves
+180         180    10007    V   Endo   Chordata           Aves
+181         181    10007    V   Endo   Chordata           Aves
+182         182    20003    V   Endo   Chordata           Aves
+183         183    20003    V   Endo   Chordata           Aves
+184         184    20003    V   Endo   Chordata           Aves
+185         185    20003    V   Endo   Chordata           Aves
+186         186    10007    V   Endo   Chordata           Aves
+187         187    10007    V   Endo   Chordata           Aves
+188         188    10007    V   Endo   Chordata           Aves
+189         189    10007    V   Endo   Chordata           Aves
+190         190    10007    V   Endo   Chordata           Aves
+191         191    10007    V   Endo   Chordata           Aves
+192         192    10007    V   Endo   Chordata           Aves
+193         193    10007    V   Endo   Chordata           Aves
+194         194    10007    V   Endo   Chordata           Aves
+195         195    20003    V   Endo   Chordata           Aves
+196         196    10012    V   Ecto   Chordata           Aves
+197         197    10012    V   Ecto   Chordata           Aves
+198         198    10022    V   Endo   Chordata           Aves
+199         199    40077    V   Endo   Chordata           Aves
+200         200    40077    V   Endo   Chordata           Aves
+201         201    40053    V   Endo   Chordata           Aves
+202         202    40053    V   Endo   Chordata           Aves
+203         203    40169    V   Endo   Chordata           Aves
+204         204    40169    V   Endo   Chordata           Aves
+205         205    40169    V   Endo   Chordata           Aves
+206         206    40169    V   Endo   Chordata           Aves
+207         207    40169    V   Endo   Chordata           Aves
+208         208    40183    V   Endo   Chordata           Aves
+209         209    30011    V   Endo   Chordata           Aves
+210         210    30011    V   Endo   Chordata           Aves
+211         211    30011    V   Endo   Chordata           Aves
+212         212    30011    V   Endo   Chordata           Aves
+213         213    10016    V   Endo   Chordata           Aves
+214         214    40054    V   Endo   Chordata           Aves
+215         215    40054    V   Endo   Chordata           Aves
+216         216    40054    V   Endo   Chordata           Aves
+217         217    20008    V   Endo   Chordata           Aves
+218         218    20010    V   Endo   Chordata           Aves
+219         219    20010    V   Endo   Chordata           Aves
+220         220    10017    V   Endo   Chordata           Aves
+221         221    10017    V   Endo   Chordata           Aves
+222         222    10025    V   Endo   Chordata           Aves
+223         223    10025    V   Endo   Chordata           Aves
+224         224    30064    V   Endo   Chordata           Aves
+225         225    40021    V   Endo   Chordata           Aves
+226         226    40211    V   Endo   Chordata           Aves
+227         227    40211    V   Endo   Chordata           Aves
+228         228    40165    V   Endo   Chordata           Aves
+229         229    40165    V   Endo   Chordata           Aves
+230         230    40165    V   Endo   Chordata           Aves
+231         231    40165    V   Endo   Chordata           Aves
+232         232    40217    V   Endo   Chordata           Aves
+233         233    40166    V   Endo   Chordata           Aves
+234         234    40166    V   Endo   Chordata           Aves
+235         235    40166    V   Endo   Chordata           Aves
+236         236    10018    V   Endo   Chordata           Aves
+237         237    10018    V   Endo   Chordata           Aves
+238         238    40006    V   Endo   Chordata           Aves
+239         239    40006    V   Endo   Chordata           Aves
+240         240    40006    V   Endo   Chordata           Aves
+241         241    40006    V   Endo   Chordata           Aves
+242         242    30053    V   Endo   Chordata       Mammalia
+243         243    10003    V   Endo   Chordata       Mammalia
+244         244    10003    V   Endo   Chordata       Mammalia
+245         245    10003    V   Endo   Chordata       Mammalia
+246         246    40228    V   Endo   Chordata       Mammalia
+247         247    40228    V   Endo   Chordata       Mammalia
+248         248    40129    V   Endo   Chordata       Mammalia
+249         249    40129    V   Endo   Chordata       Mammalia
+250         250    40129    V   Endo   Chordata       Mammalia
+251         251    30047    V   Endo   Chordata       Mammalia
+252         252    30047    V   Endo   Chordata       Mammalia
+253         253    30047    V   Endo   Chordata       Mammalia
+254         254    30047    V   Endo   Chordata       Mammalia
+255         255    30047    V   Endo   Chordata       Mammalia
+256         256    30025    V   Endo   Chordata       Mammalia
+257         257    30025    V   Endo   Chordata       Mammalia
+258         258    30025    V   Endo   Chordata       Mammalia
+259         259    30025    V   Endo   Chordata       Mammalia
+260         260    30025    V   Endo   Chordata       Mammalia
+261         261    30025    V   Endo   Chordata       Mammalia
+262         262    30025    V   Endo   Chordata       Mammalia
+263         263    30025    V   Endo   Chordata       Mammalia
+264         264    30025    V   Endo   Chordata       Mammalia
+265         265    30025    V   Endo   Chordata       Mammalia
+266         266    30025    V   Endo   Chordata       Mammalia
+267         267    30025    V   Endo   Chordata       Mammalia
+268         268    30025    V   Endo   Chordata       Mammalia
+269         269    30025    V   Endo   Chordata       Mammalia
+270         270    30025    V   Endo   Chordata       Mammalia
+271         271    30025    V   Endo   Chordata       Mammalia
+272         272    30025    V   Endo   Chordata       Mammalia
+273         273    30025    V   Endo   Chordata       Mammalia
+274         274    30025    V   Endo   Chordata       Mammalia
+275         275    30025    V   Endo   Chordata       Mammalia
+276         276    30025    V   Endo   Chordata       Mammalia
+277         277    30025    V   Endo   Chordata       Mammalia
+278         278    30025    V   Endo   Chordata       Mammalia
+279         279    30025    V   Endo   Chordata       Mammalia
+280         280    30025    V   Endo   Chordata       Mammalia
+281         281    30025    V   Endo   Chordata       Mammalia
+282         282    30025    V   Endo   Chordata       Mammalia
+283         283    30025    V   Endo   Chordata       Mammalia
+284         284    30025    V   Endo   Chordata       Mammalia
+285         285    30025    V   Endo   Chordata       Mammalia
+286         286    30025    V   Endo   Chordata       Mammalia
+287         287    30025    V   Endo   Chordata       Mammalia
+288         288    30025    V   Endo   Chordata       Mammalia
+289         289    30025    V   Endo   Chordata       Mammalia
+290         290    30025    V   Endo   Chordata       Mammalia
+291         291    30025    V   Endo   Chordata       Mammalia
+292         292    30025    V   Endo   Chordata       Mammalia
+293         293    30025    V   Endo   Chordata       Mammalia
+294         294    30025    V   Endo   Chordata       Mammalia
+295         295    30025    V   Endo   Chordata       Mammalia
+296         296    30025    V   Endo   Chordata       Mammalia
+297         297    30025    V   Endo   Chordata       Mammalia
+298         298    30025    V   Endo   Chordata       Mammalia
+299         299    30025    V   Endo   Chordata       Mammalia
+300         300    30025    V   Endo   Chordata       Mammalia
+301         301    30025    V   Endo   Chordata       Mammalia
+302         302    30025    V   Endo   Chordata       Mammalia
+303         303    30025    V   Endo   Chordata       Mammalia
+304         304    30025    V   Endo   Chordata       Mammalia
+305         305    30025    V   Endo   Chordata       Mammalia
+306         306    30025    V   Endo   Chordata       Mammalia
+307         307    30025    V   Endo   Chordata       Mammalia
+308         308    30025    V   Endo   Chordata       Mammalia
+309         309    30025    V   Endo   Chordata       Mammalia
+310         310    30025    V   Endo   Chordata       Mammalia
+311         311    30025    V   Endo   Chordata       Mammalia
+312         312    30025    V   Endo   Chordata       Mammalia
+313         313    30025    V   Endo   Chordata       Mammalia
+314         314    30025    V   Endo   Chordata       Mammalia
+315         315    30025    V   Endo   Chordata       Mammalia
+316         316    30025    V   Endo   Chordata       Mammalia
+317         317    30025    V   Endo   Chordata       Mammalia
+318         318    30025    V   Endo   Chordata       Mammalia
+319         319    30025    V   Endo   Chordata       Mammalia
+320         320    30025    V   Endo   Chordata       Mammalia
+321         321    30025    V   Endo   Chordata       Mammalia
+322         322    40133    V   Endo   Chordata       Mammalia
+323         323    40133    V   Endo   Chordata       Mammalia
+324         324    40133    V   Endo   Chordata       Mammalia
+325         325    40133    V   Endo   Chordata       Mammalia
+326         326    40084    V   Endo   Chordata       Mammalia
+327         327    40084    V   Endo   Chordata       Mammalia
+328         328    40084    V   Endo   Chordata       Mammalia
+329         329    40084    V   Endo   Chordata       Mammalia
+330         330    40084    V   Endo   Chordata       Mammalia
+331         331    40084    V   Endo   Chordata       Mammalia
+332         332    40084    V   Endo   Chordata       Mammalia
+333         333    40084    V   Endo   Chordata       Mammalia
+334         334    40084    V   Endo   Chordata       Mammalia
+335         335    40084    V   Endo   Chordata       Mammalia
+336         336    40084    V   Endo   Chordata       Mammalia
+337         337    40084    V   Endo   Chordata       Mammalia
+338         338    40084    V   Endo   Chordata       Mammalia
+339         339    40084    V   Endo   Chordata       Mammalia
+340         340    40084    V   Endo   Chordata       Mammalia
+341         341    40084    V   Endo   Chordata       Mammalia
+342         342    40084    V   Endo   Chordata       Mammalia
+343         343    40084    V   Endo   Chordata       Mammalia
+344         344    40084    V   Endo   Chordata       Mammalia
+345         345    40084    V   Endo   Chordata       Mammalia
+346         346    40084    V   Endo   Chordata       Mammalia
+347         347    40084    V   Endo   Chordata       Mammalia
+348         348    40084    V   Endo   Chordata       Mammalia
+349         349    40084    V   Endo   Chordata       Mammalia
+350         350    40084    V   Endo   Chordata       Mammalia
+351         351    40084    V   Endo   Chordata       Mammalia
+352         352    40084    V   Endo   Chordata       Mammalia
+353         353    40084    V   Endo   Chordata       Mammalia
+354         354    40084    V   Endo   Chordata       Mammalia
+355         355    40084    V   Endo   Chordata       Mammalia
+356         356    40084    V   Endo   Chordata       Mammalia
+357         357    40084    V   Endo   Chordata       Mammalia
+358         358    40084    V   Endo   Chordata       Mammalia
+359         359    40084    V   Endo   Chordata       Mammalia
+360         360    40084    V   Endo   Chordata       Mammalia
+361         361    40084    V   Endo   Chordata       Mammalia
+362         362    40084    V   Endo   Chordata       Mammalia
+363         363    40084    V   Endo   Chordata       Mammalia
+364         364    40084    V   Endo   Chordata       Mammalia
+365         365    40084    V   Endo   Chordata       Mammalia
+366         366    40084    V   Endo   Chordata       Mammalia
+367         367    40084    V   Endo   Chordata       Mammalia
+368         368    40084    V   Endo   Chordata       Mammalia
+369         369    40084    V   Endo   Chordata       Mammalia
+370         370    40084    V   Endo   Chordata       Mammalia
+371         371    40084    V   Endo   Chordata       Mammalia
+372         372    40084    V   Endo   Chordata       Mammalia
+373         373    40084    V   Endo   Chordata       Mammalia
+374         374    40084    V   Endo   Chordata       Mammalia
+375         375    40084    V   Endo   Chordata       Mammalia
+376         376    40084    V   Endo   Chordata       Mammalia
+377         377    40084    V   Endo   Chordata       Mammalia
+378         378    40084    V   Endo   Chordata       Mammalia
+379         379    40084    V   Endo   Chordata       Mammalia
+380         380    40084    V   Endo   Chordata       Mammalia
+381         381    40084    V   Endo   Chordata       Mammalia
+382         382    40084    V   Endo   Chordata       Mammalia
+383         383    40084    V   Endo   Chordata       Mammalia
+384         384    40084    V   Endo   Chordata       Mammalia
+385         385    40084    V   Endo   Chordata       Mammalia
+386         386    40084    V   Endo   Chordata       Mammalia
+387         387    40084    V   Endo   Chordata       Mammalia
+388         388    40084    V   Endo   Chordata       Mammalia
+389         389    40084    V   Endo   Chordata       Mammalia
+390         390    40084    V   Endo   Chordata       Mammalia
+391         391    40084    V   Endo   Chordata       Mammalia
+392         392    40215    V   Endo   Chordata       Mammalia
+393         393    30061    V   Endo   Chordata       Mammalia
+394         394    30061    V   Endo   Chordata       Mammalia
+395         395    30061    V   Endo   Chordata       Mammalia
+396         396    30061    V   Endo   Chordata       Mammalia
+397         397    30061    V   Endo   Chordata       Mammalia
+398         398    40152    V   Endo   Chordata       Mammalia
+399         399    40152    V   Endo   Chordata       Mammalia
+400         400    40235    V   Endo   Chordata       Mammalia
+401         401    40235    V   Endo   Chordata       Mammalia
+402         402    40235    V   Endo   Chordata       Mammalia
+403         403    10013    V   Endo   Chordata       Mammalia
+404         404    10013    V   Endo   Chordata       Mammalia
+405         405    10013    V   Endo   Chordata       Mammalia
+406         406    10013    V   Endo   Chordata       Mammalia
+407         407    10013    V   Endo   Chordata       Mammalia
+408         408    10013    V   Endo   Chordata       Mammalia
+409         409    10013    V   Endo   Chordata       Mammalia
+410         410    10013    V   Endo   Chordata       Mammalia
+411         411    10013    V   Endo   Chordata       Mammalia
+412         412    10013    V   Endo   Chordata       Mammalia
+413         413    40134    V   Endo   Chordata       Mammalia
+414         414    20002    V   Endo   Chordata       Mammalia
+415         415    40100    V   Endo   Chordata       Mammalia
+416         416    40100    V   Endo   Chordata       Mammalia
+417         417    40100    V   Endo   Chordata       Mammalia
+418         418    40100    V   Endo   Chordata       Mammalia
+419         419    40117    V   Endo   Chordata       Mammalia
+420         420    40128    V   Endo   Chordata       Mammalia
+421         421    40132    V   Endo   Chordata       Mammalia
+422         422    40132    V   Endo   Chordata       Mammalia
+423         423    40214    V   Endo   Chordata       Mammalia
+424         424    40214    V   Endo   Chordata       Mammalia
+425         425    20004    V   Ecto   Chordata       Reptilia
+426         426    20004    V   Ecto   Chordata       Reptilia
+427         427    30039    V   Ecto   Chordata      Reptilia 
+428         428    30062    V   Ecto   Chordata      Reptilia 
+429         429    30062    V   Ecto   Chordata      Reptilia 
+430         430    10002   IV   Ecto   Mollusca       Bivalvia
+431         431    10002   IV   Ecto   Mollusca       Bivalvia
+432         432    10002   IV   Ecto   Mollusca       Bivalvia
+433         433    10002   IV   Ecto   Mollusca       Bivalvia
+434         434    40014   IV   Ecto   Mollusca       Bivalvia
+435         435    40014   IV   Ecto   Mollusca       Bivalvia
+436         436    40014   IV   Ecto   Mollusca       Bivalvia
+437         437    40014   IV   Ecto   Mollusca       Bivalvia
+438         438    40014   IV   Ecto   Mollusca       Bivalvia
+439         439    40014   IV   Ecto   Mollusca       Bivalvia
+440         440    40014   IV   Ecto   Mollusca       Bivalvia
+441         441    40014   IV   Ecto   Mollusca       Bivalvia
+442         442    40232   IV   Ecto   Mollusca    Cephalopoda
+443         443    40232   IV   Ecto   Mollusca    Cephalopoda
+444         444    40232   IV   Ecto   Mollusca    Cephalopoda
+445         445    40232   IV   Ecto   Mollusca    Cephalopoda
+446         446    40232   IV   Ecto   Mollusca    Cephalopoda
+447         447    50005    V   Endo   Chordata       Mammalia
+448         448    50008    V   Endo   Chordata           Aves
+449         449    50008    V   Endo   Chordata           Aves
+450         450    50010   IV   Ecto   Chordata Actinopterygii
+451         451    50010   IV   Ecto   Chordata Actinopterygii
+452         452    50016    V   Endo   Chordata           Aves
+453         453    50016    V   Endo   Chordata           Aves
+454         454    50016    V   Endo   Chordata           Aves
+455         455    50021    V   Ecto   Chordata       Amphibia
+456         456    50021    V   Ecto   Chordata       Amphibia
+457         457    50021    V   Ecto   Chordata       Amphibia
+458         458    50021    V   Ecto   Chordata       Amphibia
+459         459    50021    V   Ecto   Chordata       Amphibia
+460         460    50024   IV   Ecto   Chordata Actinopterygii
+461         461    50024   IV   Ecto   Chordata Actinopterygii
+462         462    50024   IV   Ecto   Chordata Actinopterygii
+463         463    50024   IV   Ecto   Chordata Actinopterygii
+464         464    50024   IV   Ecto   Chordata Actinopterygii
+465         465    50024   IV   Ecto   Chordata Actinopterygii
+466         466    50024   IV   Ecto   Chordata Actinopterygii
+467         467    50024   IV   Ecto   Chordata Actinopterygii
+468         468    50024   IV   Ecto   Chordata Actinopterygii
+469         469    50048    V   Endo   Chordata           Aves
+470         470    50048    V   Endo   Chordata           Aves
+471         471    50043    V   Endo   Chordata       Mammalia
+472         472    50035    V   Endo   Chordata           Aves
+473         473    50035    V   Endo   Chordata           Aves
+474         474    50034   IV   Ecto Arthropoda        Insecta
+475         475    50026    V   Ecto   Chordata Actinopterygii
+476         476    50026    V   Ecto   Chordata Actinopterygii
+                 Order          Family            Genus       species.epithet
+1        Canalipalpata      Serpulidae        Hydroides              dianthus
+2              Araneae      Agelenidae      Agelenopsis         pennsylvanica
+3              Araneae      Agelenidae      Agelenopsis         pennsylvanica
+4              Araneae       Araneidae      Larinioides          sclopetarius
+5              Araneae       Araneidae      Larinioides          sclopetarius
+6              Araneae       Araneidae      Larinioides          sclopetarius
+7              Araneae       Araneidae      Larinioides          sclopetarius
+8              Araneae       Araneidae      Larinioides          sclopetarius
+9           Coleoptera   Chrysomelidae       Diabrotica       undecimpunctata
+10          Coleoptera   Chrysomelidae       Diabrotica       undecimpunctata
+11          Coleoptera       Silphidae      Nicrophorus          vespilloides
+12          Coleoptera       Silphidae      Nicrophorus          vespilloides
+13          Coleoptera       Silphidae      Nicrophorus          vespilloides
+14          Coleoptera   Tenebrionidae        Tribolium             castaneum
+15          Coleoptera   Tenebrionidae        Tribolium             castaneum
+16          Coleoptera   Tenebrionidae        Tribolium             castaneum
+17          Coleoptera   Tenebrionidae        Tribolium             castaneum
+18          Coleoptera   Tenebrionidae        Tribolium             castaneum
+19          Coleoptera   Tenebrionidae        Tribolium             castaneum
+20          Coleoptera   Tenebrionidae        Tribolium             castaneum
+21          Coleoptera   Tenebrionidae        Tribolium             castaneum
+22             Diptera   Drosophilidae       Drosophila             ananassae
+23             Diptera   Drosophilidae       Drosophila             ananassae
+24             Diptera   Drosophilidae       Drosophila             ananassae
+25             Diptera   Drosophilidae       Drosophila             ananassae
+26             Diptera   Drosophilidae       Drosophila          melanogaster
+27             Diptera   Drosophilidae       Drosophila          melanogaster
+28             Diptera   Drosophilidae       Drosophila          melanogaster
+29             Diptera  Drosophilidae        Drosophila          melanogaster
+30             Diptera  Drosophilidae        Drosophila          melanogaster
+31             Diptera  Drosophilidae        Drosophila          melanogaster
+32             Diptera  Drosophilidae        Drosophila          melanogaster
+33             Diptera  Drosophilidae        Drosophila          melanogaster
+34             Diptera  Drosophilidae        Drosophila          melanogaster
+35             Diptera  Drosophilidae        Drosophila          melanogaster
+36             Diptera        Muscidae            Musca             domestica
+37             Diptera        Muscidae            Musca             domestica
+38             Diptera        Sepsidae           Sepsis              cynipsea
+39             Diptera        Sepsidae           Sepsis              cynipsea
+40           Hemiptera        Gerridae         Aquarius               remigis
+41         Hymenoptera      Braconidae          Cotesia             glomerata
+42         Hymenoptera      Braconidae          Cotesia             glomerata
+43         Hymenoptera    Pteromalidae          Nasonia           vitripennis
+44         Hymenoptera    Pteromalidae          Nasonia           vitripennis
+45         Hymenoptera    Pteromalidae          Nasonia           vitripennis
+46         Hymenoptera    Pteromalidae          Nasonia           vitripennis
+47         Lepidoptera       Pyralidae          Achroia              grisella
+48         Lepidoptera      Torticidae       Grapholita               molesta
+49         Lepidoptera      Torticidae          Lobesia               botrana
+50         Lepidoptera      Torticidae          Lobesia               botrana
+51         Lepidoptera      Torticidae          Lobesia               botrana
+52         Lepidoptera     Tortricidae       Grapholita               molesta
+53             Odonata  Coenagrionidae        Enallagma             geminatum
+54             Odonata  Coenagrionidae        Enallagma             geminatum
+55             Odonata  Coenagrionidae        Enallagma                hageni
+56             Odonata  Coenagrionidae        Enallagma                hageni
+57          Orthoptera       Grillidae          Gryllus               integer
+58          Orthoptera       Grillidae          Gryllus               integer
+59        Cichliformes       Cichlidae      Amatitlania                siquia
+60        Cichliformes       Cichlidae      Amatitlania                siquia
+61        Cichliformes       Cichlidae   Neolamprologus               pulcher
+62        Cichliformes       Cichlidae   Neolamprologus               pulcher
+63        Cichliformes       Cichlidae   Neolamprologus               pulcher
+64       Cypriniformes      Cyprinidae            Danio                 rerio
+65       Cypriniformes      Cyprinidae            Danio                 rerio
+66  Cyprinodontiformes     Fundulidae           Lucania               goodei 
+67  Cyprinodontiformes     Fundulidae           Lucania               goodei 
+68  Cyprinodontiformes     Fundulidae           Lucania               goodei 
+69  Cyprinodontiformes     Fundulidae           Lucania               goodei 
+70  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+71  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+72  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+73  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+74  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+75  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+76  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+77  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+78  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+79  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+80  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+81  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+82  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+83  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+84  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+85  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+86  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+87  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+88  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+89  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+90  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+91  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+92  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+93  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+94  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+95  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+96  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+97  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+98  Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+99  Cyprinodontiformes     Poeciliidae      Xiphophorus            birchmanni
+100 Cyprinodontiformes     Poeciliidae      Xiphophorus            birchmanni
+101  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+102  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+103  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+104  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+105  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+106  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+107  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+108  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+109  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+110  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+111  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+112  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+113  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+114  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+115  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+116  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+117  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+118  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+119  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+120  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+121  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+122  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+123  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+124  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+125  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+126  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+127  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+128  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+129  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+130  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+131  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+132  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+133  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+134  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+135  Gasterosteiformes  Gasterosteidae     Gasterosteus             aculeatus
+136      Salmoniformes      Salmonidae            Salmo                 salar
+137              Anura         Ranidae             Rana             sylvatica
+138            Caudata  Plethodontidae        Plethodon              cinereus
+139            Caudata  Plethodontidae        Plethodon              cinereus
+140            Caudata  Plethodontidae        Plethodon              cinereus
+141            Caudata  Plethodontidae        Plethodon              cinereus
+142            Caudata  Plethodontidae        Plethodon              cinereus
+143            Caudata  Plethodontidae        Plethodon              cinereus
+144            Caudata  Plethodontidae        Plethodon              cinereus
+145        Apodiformes        Apodidae Tachymarptis\xa0                 melba
+146    Charadriiformes         Laridae            Larus           michahellis
+147    Charadriiformes         Laridae           Sterna               hirundo
+148    Charadriiformes         Laridae           Sterna               hirundo
+149    Charadriiformes         Laridae           Sterna               hirundo
+150      Falconiformes      Falconidae            Falco              naumanni
+151        Galliformes     Phasianidae           Gallus                gallus
+152        Galliformes     Phasianidae           Gallus                gallus
+153        Galliformes     Phasianidae           Gallus                gallus
+154        Galliformes     Phasianidae           Gallus                gallus
+155        Galliformes     Phasianidae           Gallus                gallus
+156        Galliformes     Phasianidae           Gallus                gallus
+157        Galliformes     Phasianidae           Gallus                gallus
+158        Galliformes     Phasianidae           Gallus                gallus
+159        Galliformes     Phasianidae           Gallus                gallus
+160        Galliformes     Phasianidae           Gallus                gallus
+161        Galliformes     Phasianidae           Gallus                gallus
+162        Galliformes     Phasianidae           Gallus                gallus
+163        Galliformes     Phasianidae           Gallus                gallus
+164        Galliformes     Phasianidae           Gallus                gallus
+165        Galliformes     Phasianidae           Gallus                gallus
+166        Galliformes     Phasianidae           Gallus                gallus
+167        Galliformes     Phasianidae           Gallus                gallus
+168        Galliformes     Phasianidae           Gallus                gallus
+169        Galliformes     Phasianidae           Gallus                gallus
+170        Galliformes     Phasianidae           Gallus                gallus
+171        Galliformes     Phasianidae           Gallus                gallus
+172        Galliformes     Phasianidae           Gallus                gallus
+173        Galliformes     Phasianidae           Gallus                gallus
+174        Galliformes     Phasianidae           Gallus                gallus
+175        Galliformes     Phasianidae           Gallus                gallus
+176        Galliformes     Phasianidae           Gallus                gallus
+177        Galliformes     Phasianidae           Gallus                gallus
+178        Galliformes     Phasianidae           Gallus                gallus
+179        Galliformes     Phasianidae           Gallus                gallus
+180        Galliformes     Phasianidae           Gallus                gallus
+181        Galliformes     Phasianidae           Gallus                gallus
+182        Galliformes     Phasianidae           Gallus                gallus
+183        Galliformes     Phasianidae           Gallus                gallus
+184        Galliformes     Phasianidae           Gallus                gallus
+185        Galliformes     Phasianidae           Gallus                gallus
+186        Galliformes     Phasianidae           Gallus                gallus
+187        Galliformes     Phasianidae           Gallus                gallus
+188        Galliformes     Phasianidae           Gallus                gallus
+189        Galliformes     Phasianidae           Gallus                gallus
+190        Galliformes     Phasianidae           Gallus                gallus
+191        Galliformes     Phasianidae           Gallus                gallus
+192        Galliformes     Phasianidae           Gallus                gallus
+193        Galliformes     Phasianidae           Gallus                gallus
+194        Galliformes     Phasianidae           Gallus                gallus
+195        Galliformes     Phasianidae           Gallus                gallus
+196      Passeriformes  Acrocephalidae     Acrocephalus          sechellensis
+197      Passeriformes  Acrocephalidae     Acrocephalus          sechellensis
+198      Passeriformes    Aegithalidae       Aegithalos              caudatus
+199      Passeriformes     Estrildidae      Taeniopygia               guttata
+200      Passeriformes     Estrildidae      Taeniopygia               guttata
+201      Passeriformes     Estrildidae      Taeniopygia               guttata
+202      Passeriformes     Estrildidae      Taeniopygia               guttata
+203      Passeriformes     Estrildidae      Taeniopygia               guttata
+204      Passeriformes     Estrildidae      Taeniopygia               guttata
+205      Passeriformes     Estrildidae      Taeniopygia               guttata
+206      Passeriformes     Estrildidae      Taeniopygia               guttata
+207      Passeriformes     Estrildidae      Taeniopygia               guttata
+208      Passeriformes     Estrildidae      Taeniopygia               guttata
+209      Passeriformes    Fringillidae          Serinus               canaria
+210      Passeriformes    Fringillidae          Serinus               canaria
+211      Passeriformes    Fringillidae          Serinus               canaria
+212      Passeriformes    Fringillidae          Serinus               canaria
+213      Passeriformes    Hirundinidae          Hirundo               rustica
+214      Passeriformes    Hirundinidae    Petrochelidon            pyrrhonota
+215      Passeriformes    Hirundinidae    Petrochelidon            pyrrhonota
+216      Passeriformes    Hirundinidae    Petrochelidon            pyrrhonota
+217      Passeriformes    Muscicapidae         Ficedula            albicollis
+218      Passeriformes         Paridae            Parus                 major
+219      Passeriformes         Paridae            Parus                 major
+220      Passeriformes         Paridae            Parus                 major
+221      Passeriformes         Paridae            Parus                 major
+222      Passeriformes         Paridae            Parus                 major
+223      Passeriformes         Paridae            Parus                 major
+224      Passeriformes         Paridae            Parus                 major
+225      Passeriformes         Paridae            Parus                 major
+226      Passeriformes         Paridae            Parus                 major
+227      Passeriformes         Paridae            Parus                 major
+228      Passeriformes      Passeridae           Passer            domesticus
+229      Passeriformes      Passeridae           Passer            domesticus
+230      Passeriformes      Passeridae           Passer            domesticus
+231      Passeriformes      Passeridae           Passer            domesticus
+232      Passeriformes      Passeridae           Passer            domesticus
+233      Passeriformes        Turdidae           Sialia              mexicana
+234      Passeriformes        Turdidae           Sialia              mexicana
+235      Passeriformes        Turdidae           Sialia              mexicana
+236      Passeriformes        Turdidae           Sialia              mexicana
+237      Passeriformes        Turdidae           Sialia              mexicana
+238         Piciformes         Picidae         Picoides              borealis
+239         Piciformes         Picidae         Picoides              borealis
+240         Piciformes         Picidae         Picoides              borealis
+241         Piciformes         Picidae         Picoides              borealis
+242       Artiodactyla         Bovidae              Bos                taurus
+243       Artiodactyla         Bovidae             Ovis                 aries
+244       Artiodactyla         Bovidae             Ovis                 aries
+245       Artiodactyla         Bovidae             Ovis                 aries
+246       Artiodactyla         Bovidae             Ovis            canadensis
+247       Artiodactyla         Bovidae             Ovis            canadensis
+248       Artiodactyla          Suidae              Sus                scrofa
+249       Artiodactyla          Suidae              Sus                scrofa
+250       Artiodactyla          Suidae              Sus                scrofa
+251          Carnivora        Haenidae          Crocuta               crocuta
+252          Carnivora        Haenidae          Crocuta               crocuta
+253          Carnivora        Haenidae          Crocuta               crocuta
+254          Carnivora        Haenidae          Crocuta               crocuta
+255          Carnivora        Haenidae          Crocuta               crocuta
+256           Primates Cercopithecidae            Papio anubis x cynocephalus
+257           Primates Cercopithecidae            Papio anubis x cynocephalus
+258           Primates Cercopithecidae            Papio anubis x cynocephalus
+259           Primates Cercopithecidae            Papio anubis x cynocephalus
+260           Primates Cercopithecidae            Papio anubis x cynocephalus
+261           Primates Cercopithecidae            Papio anubis x cynocephalus
+262           Primates Cercopithecidae            Papio anubis x cynocephalus
+263           Primates Cercopithecidae            Papio anubis x cynocephalus
+264           Primates Cercopithecidae            Papio anubis x cynocephalus
+265           Primates Cercopithecidae            Papio anubis x cynocephalus
+266           Primates Cercopithecidae            Papio anubis x cynocephalus
+267           Primates Cercopithecidae            Papio anubis x cynocephalus
+268           Primates Cercopithecidae            Papio anubis x cynocephalus
+269           Primates Cercopithecidae            Papio anubis x cynocephalus
+270           Primates Cercopithecidae            Papio anubis x cynocephalus
+271           Primates Cercopithecidae            Papio anubis x cynocephalus
+272           Primates Cercopithecidae            Papio anubis x cynocephalus
+273           Primates Cercopithecidae            Papio anubis x cynocephalus
+274           Primates Cercopithecidae            Papio anubis x cynocephalus
+275           Primates Cercopithecidae            Papio anubis x cynocephalus
+276           Primates Cercopithecidae            Papio anubis x cynocephalus
+277           Primates Cercopithecidae            Papio anubis x cynocephalus
+278           Primates Cercopithecidae            Papio anubis x cynocephalus
+279           Primates Cercopithecidae            Papio anubis x cynocephalus
+280           Primates Cercopithecidae            Papio anubis x cynocephalus
+281           Primates Cercopithecidae            Papio anubis x cynocephalus
+282           Primates Cercopithecidae            Papio anubis x cynocephalus
+283           Primates Cercopithecidae            Papio anubis x cynocephalus
+284           Primates Cercopithecidae            Papio anubis x cynocephalus
+285           Primates Cercopithecidae            Papio anubis x cynocephalus
+286           Primates Cercopithecidae            Papio anubis x cynocephalus
+287           Primates Cercopithecidae            Papio anubis x cynocephalus
+288           Primates Cercopithecidae            Papio anubis x cynocephalus
+289           Primates Cercopithecidae            Papio anubis x cynocephalus
+290           Primates Cercopithecidae            Papio anubis x cynocephalus
+291           Primates Cercopithecidae            Papio anubis x cynocephalus
+292           Primates Cercopithecidae            Papio anubis x cynocephalus
+293           Primates Cercopithecidae            Papio anubis x cynocephalus
+294           Primates Cercopithecidae            Papio anubis x cynocephalus
+295           Primates Cercopithecidae            Papio anubis x cynocephalus
+296           Primates Cercopithecidae            Papio anubis x cynocephalus
+297           Primates Cercopithecidae            Papio anubis x cynocephalus
+298           Primates Cercopithecidae            Papio anubis x cynocephalus
+299           Primates Cercopithecidae            Papio anubis x cynocephalus
+300           Primates Cercopithecidae            Papio anubis x cynocephalus
+301           Primates Cercopithecidae            Papio anubis x cynocephalus
+302           Primates Cercopithecidae            Papio anubis x cynocephalus
+303           Primates Cercopithecidae            Papio anubis x cynocephalus
+304           Primates Cercopithecidae            Papio anubis x cynocephalus
+305           Primates Cercopithecidae            Papio anubis x cynocephalus
+306           Primates Cercopithecidae            Papio anubis x cynocephalus
+307           Primates Cercopithecidae            Papio anubis x cynocephalus
+308           Primates Cercopithecidae            Papio anubis x cynocephalus
+309           Primates Cercopithecidae            Papio anubis x cynocephalus
+310           Primates Cercopithecidae            Papio anubis x cynocephalus
+311           Primates Cercopithecidae            Papio anubis x cynocephalus
+312           Primates Cercopithecidae            Papio anubis x cynocephalus
+313           Primates Cercopithecidae            Papio anubis x cynocephalus
+314           Primates Cercopithecidae            Papio anubis x cynocephalus
+315           Primates Cercopithecidae            Papio anubis x cynocephalus
+316           Primates Cercopithecidae            Papio anubis x cynocephalus
+317           Primates Cercopithecidae            Papio anubis x cynocephalus
+318           Primates Cercopithecidae            Papio anubis x cynocephalus
+319           Primates Cercopithecidae            Papio anubis x cynocephalus
+320           Primates Cercopithecidae            Papio anubis x cynocephalus
+321           Primates Cercopithecidae            Papio anubis x cynocephalus
+322           Primates       Hominidae              Pan          troglodytes 
+323           Primates       Hominidae              Pan          troglodytes 
+324           Primates       Hominidae              Pan          troglodytes 
+325           Primates       Hominidae              Pan          troglodytes 
+326           Primates       Hominidae            Pongo       pygmaeus/abelii
+327           Primates       Hominidae            Pongo       pygmaeus/abelii
+328           Primates       Hominidae            Pongo       pygmaeus/abelii
+329           Primates       Hominidae            Pongo       pygmaeus/abelii
+330           Primates       Hominidae            Pongo       pygmaeus/abelii
+331           Primates       Hominidae            Pongo       pygmaeus/abelii
+332           Primates       Hominidae            Pongo       pygmaeus/abelii
+333           Primates       Hominidae            Pongo       pygmaeus/abelii
+334           Primates       Hominidae            Pongo       pygmaeus/abelii
+335           Primates       Hominidae            Pongo       pygmaeus/abelii
+336           Primates       Hominidae            Pongo       pygmaeus/abelii
+337           Primates       Hominidae            Pongo       pygmaeus/abelii
+338           Primates       Hominidae            Pongo       pygmaeus/abelii
+339           Primates       Hominidae            Pongo       pygmaeus/abelii
+340           Primates       Hominidae            Pongo       pygmaeus/abelii
+341           Primates       Hominidae            Pongo       pygmaeus/abelii
+342           Primates       Hominidae            Pongo       pygmaeus/abelii
+343           Primates       Hominidae            Pongo       pygmaeus/abelii
+344           Primates       Hominidae            Pongo       pygmaeus/abelii
+345           Primates       Hominidae            Pongo       pygmaeus/abelii
+346           Primates       Hominidae            Pongo       pygmaeus/abelii
+347           Primates       Hominidae            Pongo       pygmaeus/abelii
+348           Primates       Hominidae            Pongo       pygmaeus/abelii
+349           Primates       Hominidae            Pongo       pygmaeus/abelii
+350           Primates       Hominidae            Pongo       pygmaeus/abelii
+351           Primates       Hominidae            Pongo       pygmaeus/abelii
+352           Primates       Hominidae            Pongo       pygmaeus/abelii
+353           Primates       Hominidae            Pongo       pygmaeus/abelii
+354           Primates       Hominidae            Pongo       pygmaeus/abelii
+355           Primates       Hominidae            Pongo       pygmaeus/abelii
+356           Primates       Hominidae            Pongo       pygmaeus/abelii
+357           Primates       Hominidae            Pongo       pygmaeus/abelii
+358           Primates       Hominidae            Pongo       pygmaeus/abelii
+359           Primates       Hominidae            Pongo       pygmaeus/abelii
+360           Primates       Hominidae            Pongo       pygmaeus/abelii
+361           Primates       Hominidae            Pongo       pygmaeus/abelii
+362           Primates       Hominidae            Pongo       pygmaeus/abelii
+363           Primates       Hominidae            Pongo       pygmaeus/abelii
+364           Primates       Hominidae            Pongo       pygmaeus/abelii
+365           Primates       Hominidae            Pongo       pygmaeus/abelii
+366           Primates       Hominidae            Pongo       pygmaeus/abelii
+367           Primates       Hominidae            Pongo       pygmaeus/abelii
+368           Primates       Hominidae            Pongo       pygmaeus/abelii
+369           Primates       Hominidae            Pongo       pygmaeus/abelii
+370           Primates       Hominidae            Pongo       pygmaeus/abelii
+371           Primates       Hominidae            Pongo       pygmaeus/abelii
+372           Primates       Hominidae            Pongo       pygmaeus/abelii
+373           Primates       Hominidae            Pongo       pygmaeus/abelii
+374           Primates       Hominidae            Pongo       pygmaeus/abelii
+375           Primates       Hominidae            Pongo       pygmaeus/abelii
+376           Primates       Hominidae            Pongo       pygmaeus/abelii
+377           Primates       Hominidae            Pongo       pygmaeus/abelii
+378           Primates       Hominidae            Pongo       pygmaeus/abelii
+379           Primates       Hominidae            Pongo       pygmaeus/abelii
+380           Primates       Hominidae            Pongo       pygmaeus/abelii
+381           Primates       Hominidae            Pongo       pygmaeus/abelii
+382           Primates       Hominidae            Pongo       pygmaeus/abelii
+383           Primates       Hominidae            Pongo       pygmaeus/abelii
+384           Primates       Hominidae            Pongo       pygmaeus/abelii
+385           Primates       Hominidae            Pongo       pygmaeus/abelii
+386           Primates       Hominidae            Pongo       pygmaeus/abelii
+387           Primates       Hominidae            Pongo       pygmaeus/abelii
+388           Primates       Hominidae            Pongo       pygmaeus/abelii
+389           Primates       Hominidae            Pongo       pygmaeus/abelii
+390           Primates       Hominidae            Pongo       pygmaeus/abelii
+391           Primates       Hominidae            Pongo       pygmaeus/abelii
+392           Rodentia      Cricetidae       Peromyscus           maniculatus
+393           Rodentia      Cricetidae      Peromyscus            maniculatus
+394           Rodentia      Cricetidae      Peromyscus            maniculatus
+395           Rodentia      Cricetidae      Peromyscus            maniculatus
+396           Rodentia      Cricetidae      Peromyscus            maniculatus
+397           Rodentia      Cricetidae      Peromyscus            maniculatus
+398           Rodentia      Cricetidae         Phodopus              sungorus
+399           Rodentia      Cricetidae         Phodopus              sungorus
+400           Rodentia      Cricetidae     Tamiasciurus            hudsonicus
+401           Rodentia      Cricetidae     Tamiasciurus            hudsonicus
+402           Rodentia      Cricetidae     Tamiasciurus            hudsonicus
+403           Rodentia         Muridae              Mus              musculus
+404           Rodentia         Muridae              Mus              musculus
+405           Rodentia         Muridae              Mus              musculus
+406           Rodentia         Muridae              Mus              musculus
+407           Rodentia         Muridae              Mus              musculus
+408           Rodentia         Muridae              Mus              musculus
+409           Rodentia         Muridae              Mus              musculus
+410           Rodentia         Muridae              Mus              musculus
+411           Rodentia         Muridae              Mus              musculus
+412           Rodentia         Muridae              Mus              musculus
+413           Rodentia         Muridae              Mus              musculus
+414           Rodentia         Muridae              Mus              musculus
+415           Rodentia         Muridae              Mus              musculus
+416           Rodentia         Muridae              Mus              musculus
+417           Rodentia         Muridae              Mus              musculus
+418           Rodentia         Muridae              Mus              musculus
+419           Rodentia         Muridae              Mus              musculus
+420           Rodentia         Muridae           Rattus            norvegicus
+421           Rodentia         Muridae           Rattus            norvegicus
+422           Rodentia         Muridae           Rattus            norvegicus
+423           Rodentia       Sciuridae          Marmota          flaviventris
+424           Rodentia       Sciuridae          Marmota          flaviventris
+425           Squamata       Scincidae        Eulamprus                quoyii
+426           Squamata       Scincidae        Eulamprus                quoyii
+427           Squamata      Lacertidae          Zootoca              vivipara
+428         Testudines        Emydidae        Chrysemys                 picta
+429         Testudines        Emydidae        Chrysemys                 picta
+430          Pectinida      Pectinidae       Argopecten            purpuratus
+431          Pectinida      Pectinidae       Argopecten            purpuratus
+432          Pectinida      Pectinidae       Argopecten            purpuratus
+433          Pectinida      Pectinidae       Argopecten            purpuratus
+434         Pectinidae      Pectinidae       Argopecten            purpuratus
+435         Pectinidae      Pectinidae       Argopecten            purpuratus
+436         Pectinidae      Pectinidae       Argopecten            purpuratus
+437         Pectinidae      Pectinidae       Argopecten            purpuratus
+438         Pectinidae      Pectinidae       Argopecten            purpuratus
+439         Pectinidae      Pectinidae       Argopecten            purpuratus
+440         Pectinidae      Pectinidae       Argopecten            purpuratus
+441         Pectinidae      Pectinidae       Argopecten            purpuratus
+442           Sepiidae      Sepiolidae         Euprymna             tasmanica
+443           Sepiidae      Sepiolidae         Euprymna             tasmanica
+444           Sepiidae      Sepiolidae         Euprymna             tasmanica
+445           Sepiidae      Sepiolidae         Euprymna             tasmanica
+446           Sepiidae      Sepiolidae         Euprymna             tasmanica
+447           Primates Cercopithecidae           Macaca               mulatta
+448      Passeriformes         Paridae        Cyanistes             caeruleus
+449      Passeriformes         Paridae        Cyanistes             caeruleus
+450 Cyprinodontiformes       Goodeidae  Girardinichthys         multiradiatus
+451 Cyprinodontiformes       Goodeidae  Girardinichthys         multiradiatus
+452      Passeriformes    Fringillidae          Serinus               canaria
+453      Passeriformes    Fringillidae          Serinus               canaria
+454      Passeriformes    Fringillidae          Serinus               canaria
+455              Anura       Bufonidae         Rhinella                marina
+456              Anura       Bufonidae         Rhinella                marina
+457              Anura       Bufonidae         Rhinella                marina
+458              Anura       Bufonidae         Rhinella                marina
+459              Anura       Bufonidae         Rhinella                marina
+460 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+461 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+462 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+463 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+464 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+465 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+466 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+467 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+468 Cyprinodontiformes     Poeciliidae         Poecilia            reticulata
+469      Passeriformes      Passeridae           Passer            domesticus
+470      Passeriformes      Passeridae           Passer            domesticus
+471           Rodentia       Scuridiae           Tamias              striatus
+472      Passeriformes    Hirundinidae          Hirundo               rustica
+473      Passeriformes    Hirundinidae          Hirundo               rustica
+474          Mecoptera      Panorpidae          Panorpa              vulgaris
+475      Salmoniformes      Salmonidae            Salmo                trutta
+476      Salmoniformes      Salmonidae            Salmo                trutta
+                            phylo D.W L.F        Behavior     N N.C
+1              Hydroides_dianthus   W   L       Migration   110 100
+2       Agelenopsis_pennsylvanica   W   L      Aggression    54  54
+3       Agelenopsis_pennsylvanica   W   L        Boldness    54  54
+4        Larinioides_sclopetarius   W   L        Activity   331 100
+5        Larinioides_sclopetarius   W   L      Aggression   301 100
+6        Larinioides_sclopetarius   W   L      Aggression   331 100
+7        Larinioides_sclopetarius   W   L        Boldness   331 100
+8        Larinioides_sclopetarius   W   L        Foraging   301 100
+9      Diabrotica_undecimpunctata   W   L          Mating  1000 100
+10     Diabrotica_undecimpunctata   W   L          Mating  1000 100
+11       Nicrophorus_vespilloides   W   L Parental Effort   250 100
+12       Nicrophorus_vespilloides   W   L Parental Effort   362 100
+13       Nicrophorus_vespilloides   W   L Parental Effort   362 100
+14            Tribolium_castaneum   W   L        Boldness  8000 100
+15            Tribolium_castaneum   W   L        Boldness  8000 100
+16            Tribolium_castaneum   W   L        Boldness  8000 100
+17            Tribolium_castaneum   W   L        Boldness  8000 100
+18            Tribolium_castaneum   W   L        Boldness  8000 100
+19            Tribolium_castaneum   W   L        Boldness  8000 100
+20            Tribolium_castaneum   W   L        Boldness  8000 100
+21            Tribolium_castaneum   W   L        Boldness  8000 100
+22           Drosophila_ananassae   W   L          Mating    30  30
+23           Drosophila_ananassae   W   L          Mating    30  30
+24           Drosophila_ananassae   W   L          Mating    30  30
+25           Drosophila_ananassae   W   L          Mating    30  30
+26        Drosophila_melanogaster   W   L     Exploratory   100 100
+27        Drosophila_melanogaster   W   L     Exploratory   100 100
+28        Drosophila_melanogaster   W   L     Exploratory   100 100
+29        Drosophila_melanogaster   D   L          Mating   330 100
+30        Drosophila_melanogaster   D   L          Mating   427 100
+31        Drosophila_melanogaster   D   L          Mating   458 100
+32        Drosophila_melanogaster   D   L          Mating   520 100
+33        Drosophila_melanogaster   D   L          Mating   661 100
+34        Drosophila_melanogaster   D   L          Mating   747 100
+35        Drosophila_melanogaster   D   L           Other   219 100
+36                Musca_domestica   D   L          Mating    66  66
+37                Musca_domestica   D   L          Mating    66  66
+38                Sepsis_cynipsea   W   L          Mating   160 100
+39                Sepsis_cynipsea   W   L          Mating   160 100
+40               Aquarius_remigis   W   L        Foraging   156 100
+41              Cotesia_glomerata   W   L        Foraging    40  40
+42              Cotesia_glomerata   W   L        Foraging    40  40
+43            Nasonia_vitripennis   W   L          Mating  1005 100
+44            Nasonia_vitripennis   W   L          Mating  1005 100
+45            Nasonia_vitripennis   W   L          Mating  1005 100
+46            Nasonia_vitripennis   W   L          Mating  1005 100
+47               Achroia_grisella   W   L          Mating    60  60
+48             Grapholita_molesta   W   L          Mating   400 100
+49                Lobesia_botrana   D   L          Mating   300 100
+50                Lobesia_botrana   D   L          Mating   300 100
+51                Lobesia_botrana   D   L          Mating   300 100
+52             Grapholita_molesta   W   L Parental Effort   400 100
+53            Enallagma_geminatum   W   F        Boldness   770 100
+54            Enallagma_geminatum   W   F        Boldness   770 100
+55               Enallagma_hageni   W   F        Boldness   770 100
+56               Enallagma_hageni   W   F        Boldness   770 100
+57                Gryllus_integer   D   L        Boldness   538 100
+58                Gryllus_integer   W   L        Boldness   538 100
+59             Amatitlania_siquia   W   L        Boldness   167 100
+60             Amatitlania_siquia   W   L     Exploratory   167 100
+61         Neolamprologus_pulcher   W   L Parental Effort  3175 100
+62         Neolamprologus_pulcher   W   L Parental Effort  3175 100
+63         Neolamprologus_pulcher   W   L Parental Effort  3175 100
+64                    Danio_rerio   S   L        Activity   482 100
+65                    Danio_rerio   S   L      Aggression   482 100
+66                 Lucania_goodei   W   L      Aggression   192 100
+67                 Lucania_goodei   W   L      Aggression   192 100
+68                 Lucania_goodei   W   L          Mating   192 100
+69                 Lucania_goodei   W   L          Mating   192 100
+70            Poecilia_reticulata   W   L        Foraging  1680 100
+71            Poecilia_reticulata   W   L        Foraging  1680 100
+72            Poecilia_reticulata   W   L        Foraging  1680 100
+73            Poecilia_reticulata   W   L        Foraging  1680 100
+74            Poecilia_reticulata   W   L          Mating   508 100
+75            Poecilia_reticulata   W   L          Mating   508 100
+76            Poecilia_reticulata   W   L          Mating   301 100
+77            Poecilia_reticulata   W   L          Mating   301 100
+78            Poecilia_reticulata   W   L          Mating   301 100
+79            Poecilia_reticulata   W   L          Mating   301 100
+80            Poecilia_reticulata   W   L          Mating   301 100
+81            Poecilia_reticulata   W   L          Mating   301 100
+82            Poecilia_reticulata   W   L          Mating   301 100
+83            Poecilia_reticulata   W   L          Mating   301 100
+84            Poecilia_reticulata   W   L          Mating   301 100
+85            Poecilia_reticulata   W   L          Mating   301 100
+86            Poecilia_reticulata   W   L          Mating   301 100
+87            Poecilia_reticulata   W   L          Mating   301 100
+88            Poecilia_reticulata   W   L          Mating   301 100
+89            Poecilia_reticulata   W   L          Mating   301 100
+90            Poecilia_reticulata   W   L          Mating   301 100
+91            Poecilia_reticulata   W   L          Mating   301 100
+92            Poecilia_reticulata   W   L          Mating   301 100
+93            Poecilia_reticulata   W   L          Mating   301 100
+94            Poecilia_reticulata   W   L          Mating   301 100
+95            Poecilia_reticulata   W   L          Mating   301 100
+96            Poecilia_reticulata   W   L          Mating   301 100
+97            Poecilia_reticulata   W   L          Mating   301 100
+98            Poecilia_reticulata   W   L          Mating   301 100
+99         Xiphophorus_birchmanni   W   L        Activity   384 100
+100        Xiphophorus_birchmanni   W   L      Aggression   384 100
+101        Gasterosteus_aculeatus   W   L        Activity   464 100
+102        Gasterosteus_aculeatus   W   L        Activity   464 100
+103        Gasterosteus_aculeatus   W   L        Activity   464 100
+104        Gasterosteus_aculeatus   W   L        Activity   464 100
+105        Gasterosteus_aculeatus   W   L        Activity   577 100
+106        Gasterosteus_aculeatus   W   L        Activity   577 100
+107        Gasterosteus_aculeatus   W   L        Activity   577 100
+108        Gasterosteus_aculeatus   W   L        Activity   577 100
+109        Gasterosteus_aculeatus   W   L        Activity    29  29
+110        Gasterosteus_aculeatus   W   L        Activity    42  42
+111        Gasterosteus_aculeatus   W   L      Aggression    29  29
+112        Gasterosteus_aculeatus   W   L      Aggression    42  42
+113        Gasterosteus_aculeatus   W   L        Boldness   443 100
+114        Gasterosteus_aculeatus   W   L        Boldness   464 100
+115        Gasterosteus_aculeatus   W   L        Boldness   464 100
+116        Gasterosteus_aculeatus   W   L        Boldness   577 100
+117        Gasterosteus_aculeatus   W   L        Boldness   577 100
+118        Gasterosteus_aculeatus   W   L        Boldness    29  29
+119        Gasterosteus_aculeatus   W   L        Boldness    42  42
+120        Gasterosteus_aculeatus   W   L     Exploratory   464 100
+121        Gasterosteus_aculeatus   W   L     Exploratory   464 100
+122        Gasterosteus_aculeatus   W   L     Exploratory   577 100
+123        Gasterosteus_aculeatus   W   L     Exploratory   577 100
+124        Gasterosteus_aculeatus   W   L     Exploratory   446 100
+125        Gasterosteus_aculeatus   W   L     Exploratory   446 100
+126        Gasterosteus_aculeatus   W   L     Exploratory   566 100
+127        Gasterosteus_aculeatus   W   L          Social   443 100
+128        Gasterosteus_aculeatus   W   L          Social   464 100
+129        Gasterosteus_aculeatus   W   L          Social   464 100
+130        Gasterosteus_aculeatus   W   L          Social   464 100
+131        Gasterosteus_aculeatus   W   L          Social   464 100
+132        Gasterosteus_aculeatus   W   L          Social   577 100
+133        Gasterosteus_aculeatus   W   L          Social   577 100
+134        Gasterosteus_aculeatus   W   L          Social   577 100
+135        Gasterosteus_aculeatus   W   L          Social   577 100
+136                   Salmo_salar   W   L       Migration   866 100
+137                Rana_sylvatica   W   L        Activity    75  75
+138            Plethodon_cinereus   W   L        Foraging   175 100
+139            Plethodon_cinereus   W   L        Foraging   175 100
+140            Plethodon_cinereus   W   L        Foraging   175 100
+141            Plethodon_cinereus   W   L        Foraging   175 100
+142            Plethodon_cinereus   W   L        Foraging   175 100
+143            Plethodon_cinereus   W   L        Foraging   175 100
+144            Plethodon_cinereus   W   L        Foraging   175 100
+145            Tachymarptis_melba   W   F        Boldness    59  59
+146             Larus_michahellis   W   F Parental Effort   179 100
+147                Sterna_hirundo   W   F       Migration   604 100
+148                Sterna_hirundo   W   F       Migration   918 100
+149                Sterna_hirundo   W   F       Migration  2767 100
+150                Falco_naumanni   W   F       Migration  4965 100
+151                 Gallus_gallus   D   L        Activity   550 100
+152                 Gallus_gallus   D   L        Activity   550 100
+153                 Gallus_gallus   D   L           Other   550 100
+154                 Gallus_gallus   D   L           Other   550 100
+155                 Gallus_gallus   D   L           Other   550 100
+156                 Gallus_gallus   D   L           Other   550 100
+157                 Gallus_gallus   D   L           Other   550 100
+158                 Gallus_gallus   D   L           Other   550 100
+159                 Gallus_gallus   D   L           Other   550 100
+160                 Gallus_gallus   D   L           Other   550 100
+161                 Gallus_gallus   D   L           Other   550 100
+162                 Gallus_gallus   D   L           Other   550 100
+163                 Gallus_gallus   D   L           Other   550 100
+164                 Gallus_gallus   D   L           Other   550 100
+165                 Gallus_gallus   D   L           Other   550 100
+166                 Gallus_gallus   D   L           Other   550 100
+167                 Gallus_gallus   D   L           Other   550 100
+168                 Gallus_gallus   D   L           Other   550 100
+169                 Gallus_gallus   D   L           Other   550 100
+170                 Gallus_gallus   D   L           Other   550 100
+171                 Gallus_gallus   D   L           Other   550 100
+172                 Gallus_gallus   D   L           Other   550 100
+173                 Gallus_gallus   D   L           Other   550 100
+174                 Gallus_gallus   D   L           Other   550 100
+175                 Gallus_gallus   D   L        Activity   714 100
+176                 Gallus_gallus   D   L        Activity   869 100
+177                 Gallus_gallus   D   L        Activity   892 100
+178                 Gallus_gallus   D   L      Aggression   938 100
+179                 Gallus_gallus   D   L        Boldness   858 100
+180                 Gallus_gallus   D   L        Boldness   860 100
+181                 Gallus_gallus   D   L        Boldness   860 100
+182                 Gallus_gallus   D   L        Boldness   393 100
+183                 Gallus_gallus   D   L        Boldness   939 100
+184                 Gallus_gallus   D   L        Boldness   939 100
+185                 Gallus_gallus   D   L        Boldness   939 100
+186                 Gallus_gallus   D   L        Foraging   711 100
+187                 Gallus_gallus   D   L        Foraging   711 100
+188                 Gallus_gallus   D   L        Foraging   712 100
+189                 Gallus_gallus   D   L        Foraging   712 100
+190                 Gallus_gallus   D   L        Foraging   714 100
+191                 Gallus_gallus   D   L        Foraging   718 100
+192                 Gallus_gallus   D   L        Foraging   718 100
+193                 Gallus_gallus   D   L           Other   703 100
+194                 Gallus_gallus   D   L           Other   714 100
+195                 Gallus_gallus   D   L          Social   938 100
+196     Acrocephalus_sechellensis   W   F     Exploratory   684 100
+197     Acrocephalus_sechellensis   W   F     Exploratory   786 100
+198           Aegithalos_caudatus   W   F Parental Effort   261 100
+199           Taeniopygia_guttata   S   L        Boldness   530 100
+200           Taeniopygia_guttata   S   L        Boldness   530 100
+201           Taeniopygia_guttata   S   L   Communication    40  40
+202           Taeniopygia_guttata   S   L   Communication    40  40
+203           Taeniopygia_guttata   S   L          Mating   208 100
+204           Taeniopygia_guttata   S   L          Mating   208 100
+205           Taeniopygia_guttata   S   L          Mating   208 100
+206           Taeniopygia_guttata   S   L          Mating   208 100
+207           Taeniopygia_guttata   S   L          Mating   208 100
+208           Taeniopygia_guttata   S   L          Mating   352 100
+209               Serinus_canaria   W   L          Mating    62  62
+210               Serinus_canaria   W   L          Mating    89  89
+211               Serinus_canaria   W   L          Mating    89  89
+212               Serinus_canaria   W   L          Mating    89  89
+213               Hirundo_rustica   W   F       Migration    98  98
+214      Petrochelidon_pyrrhonota   W   F           Other   327 100
+215      Petrochelidon_pyrrhonota   W   F           Other   346 100
+216      Petrochelidon_pyrrhonota   W   F           Other   392 100
+217           Ficedula_albicollis   W   F       Migration   999 100
+218                   Parus_major   W   F      Aggression   679 100
+219                   Parus_major   W   F      Aggression   679 100
+220                   Parus_major   W   F     Exploratory    25  25
+221                   Parus_major   W   L     Exploratory   414 100
+222                   Parus_major   W   F     Exploratory  1110 100
+223                   Parus_major   W   F     Exploratory  1110 100
+224                   Parus_major   W   F     Exploratory   688 100
+225                   Parus_major   W   F     Exploratory  1070 100
+226                   Parus_major   W   L     Exploratory  1110 100
+227                   Parus_major   W   L     Exploratory  1110 100
+228             Passer_domesticus   D   L Parental Effort     6   6
+229             Passer_domesticus   D   L Parental Effort     7   7
+230             Passer_domesticus   D   L Parental Effort     9   9
+231             Passer_domesticus   D   L Parental Effort    27  27
+232             Passer_domesticus   D   L Parental Effort    14  14
+233               Sialia_mexicana   W   F       Migration   109 100
+234               Sialia_mexicana   W   F       Migration   109 100
+235               Sialia_mexicana   W   F       Migration   109 100
+236               Sialia_mexicana   W   F Parental Effort  1593 100
+237               Sialia_mexicana   W   F Parental Effort  1593 100
+238             Picoides_borealis   W   F       Migration  1446 100
+239             Picoides_borealis   W   F       Migration  1446 100
+240             Picoides_borealis   W   F       Migration  1446 100
+241             Picoides_borealis   W   F       Migration  1446 100
+242                    Bos_taurus   D   L      Aggression  8159 100
+243                    Ovis_aries   D   L        Activity 11092 100
+244                    Ovis_aries   D   L           Other 11092 100
+245                    Ovis_aries   D   L           Other 11092 100
+246               Ovis_canadensis   W   F      Aggression   105 100
+247               Ovis_canadensis   W   F        Boldness   105 100
+248                    Sus_scrofa   D   L      Aggression   341 100
+249                    Sus_scrofa   D   L      Aggression   341 100
+250                    Sus_scrofa   D   L      Aggression   341 100
+251               Crocuta_crocuta   W   F      Aggression   140 100
+252               Crocuta_crocuta   W   F      Aggression   156 100
+253               Crocuta_crocuta   W   F        Boldness   185 100
+254               Crocuta_crocuta   W   F   Communication   218 100
+255               Crocuta_crocuta   W   F   Communication   218 100
+256                  Papio_anubis   W   F           Other   578 100
+257                  Papio_anubis   W   F           Other   578 100
+258                  Papio_anubis   W   F           Other   578 100
+259                  Papio_anubis   W   F           Other   578 100
+260                  Papio_anubis   W   F           Other   578 100
+261                  Papio_anubis   W   F           Other   578 100
+262                  Papio_anubis   W   F           Other   578 100
+263                  Papio_anubis   W   F           Other   578 100
+264                  Papio_anubis   W   F           Other   578 100
+265                  Papio_anubis   W   F           Other   578 100
+266                  Papio_anubis   W   F           Other   578 100
+267                  Papio_anubis   W   F           Other   578 100
+268                  Papio_anubis   W   F           Other   578 100
+269                  Papio_anubis   W   F           Other   578 100
+270                  Papio_anubis   W   F           Other   578 100
+271                  Papio_anubis   W   F           Other   578 100
+272                  Papio_anubis   W   F           Other   578 100
+273                  Papio_anubis   W   F           Other   578 100
+274                  Papio_anubis   W   F           Other   578 100
+275                  Papio_anubis   W   F           Other   578 100
+276                  Papio_anubis   W   F           Other   578 100
+277                  Papio_anubis   W   F           Other   578 100
+278                  Papio_anubis   W   F           Other   578 100
+279                  Papio_anubis   W   F           Other   578 100
+280                  Papio_anubis   W   F           Other   578 100
+281                  Papio_anubis   W   F           Other   578 100
+282                  Papio_anubis   W   F           Other   578 100
+283                  Papio_anubis   W   F           Other   578 100
+284                  Papio_anubis   W   F           Other   578 100
+285                  Papio_anubis   W   F           Other   578 100
+286                  Papio_anubis   W   F           Other   578 100
+287                  Papio_anubis   W   F           Other   578 100
+288                  Papio_anubis   W   F           Other   578 100
+289                  Papio_anubis   W   F           Other   578 100
+290                  Papio_anubis   W   F           Other   578 100
+291                  Papio_anubis   W   F           Other   578 100
+292                  Papio_anubis   W   F           Other   578 100
+293                  Papio_anubis   W   F           Other   578 100
+294                  Papio_anubis   W   F           Other   578 100
+295                  Papio_anubis   W   F           Other   578 100
+296                  Papio_anubis   W   F           Other   578 100
+297                  Papio_anubis   W   F           Other   578 100
+298                  Papio_anubis   W   F           Other   578 100
+299                  Papio_anubis   W   F           Other   578 100
+300                  Papio_anubis   W   F           Other   578 100
+301                  Papio_anubis   W   F           Other   578 100
+302                  Papio_anubis   W   F           Other   578 100
+303                  Papio_anubis   W   F           Other   578 100
+304                  Papio_anubis   W   F           Other   578 100
+305                  Papio_anubis   W   F           Other   578 100
+306                  Papio_anubis   W   F           Other   578 100
+307                  Papio_anubis   W   F           Other   578 100
+308                  Papio_anubis   W   F           Other   578 100
+309                  Papio_anubis   W   F           Other   578 100
+310                  Papio_anubis   W   F           Other   578 100
+311                  Papio_anubis   W   F           Other   578 100
+312                  Papio_anubis   W   F           Other   578 100
+313                  Papio_anubis   W   F           Other   578 100
+314                  Papio_anubis   W   F           Other   578 100
+315                  Papio_anubis   W   F           Other   578 100
+316                  Papio_anubis   W   F           Other   578 100
+317                  Papio_anubis   W   F           Other   578 100
+318                  Papio_anubis   W   F           Other   578 100
+319                  Papio_anubis   W   F           Other   578 100
+320                  Papio_anubis   W   F           Other   578 100
+321                  Papio_anubis   W   F           Other   578 100
+322               Pan_troglodytes   W   L      Aggression   145 100
+323               Pan_troglodytes   W   L      Aggression   145 100
+324               Pan_troglodytes   W   L      Aggression   145 100
+325               Pan_troglodytes   W   L           Other   145 100
+326                Pongo_pygmaeus   W   L           Other   174 100
+327                Pongo_pygmaeus   W   L           Other   174 100
+328                Pongo_pygmaeus   W   L           Other   174 100
+329                Pongo_pygmaeus   W   L           Other   174 100
+330                Pongo_pygmaeus   W   L           Other   174 100
+331                Pongo_pygmaeus   W   L           Other   174 100
+332                Pongo_pygmaeus   W   L           Other   174 100
+333                Pongo_pygmaeus   W   L           Other   174 100
+334                Pongo_pygmaeus   W   L           Other   174 100
+335                Pongo_pygmaeus   W   L           Other   174 100
+336                Pongo_pygmaeus   W   L           Other   174 100
+337                Pongo_pygmaeus   W   L           Other   174 100
+338                Pongo_pygmaeus   W   L           Other   174 100
+339                Pongo_pygmaeus   W   L           Other   174 100
+340                Pongo_pygmaeus   W   L           Other   174 100
+341                Pongo_pygmaeus   W   L           Other   174 100
+342                Pongo_pygmaeus   W   L           Other   174 100
+343                Pongo_pygmaeus   W   L           Other   174 100
+344                Pongo_pygmaeus   W   L           Other   174 100
+345                Pongo_pygmaeus   W   L           Other   174 100
+346                Pongo_pygmaeus   W   L           Other   174 100
+347                Pongo_pygmaeus   W   L           Other   174 100
+348                Pongo_pygmaeus   W   L           Other   174 100
+349                Pongo_pygmaeus   W   L           Other   174 100
+350                Pongo_pygmaeus   W   L           Other   174 100
+351                Pongo_pygmaeus   W   L           Other   174 100
+352                Pongo_pygmaeus   W   L           Other   174 100
+353                Pongo_pygmaeus   W   L           Other   174 100
+354                Pongo_pygmaeus   W   L           Other   174 100
+355                Pongo_pygmaeus   W   L           Other   174 100
+356                Pongo_pygmaeus   W   L           Other   174 100
+357                Pongo_pygmaeus   W   L           Other   174 100
+358                Pongo_pygmaeus   W   L           Other   174 100
+359                Pongo_pygmaeus   W   L           Other   174 100
+360                Pongo_pygmaeus   W   L           Other   174 100
+361                Pongo_pygmaeus   W   L           Other   174 100
+362                Pongo_pygmaeus   W   L           Other   174 100
+363                Pongo_pygmaeus   W   L           Other   174 100
+364                Pongo_pygmaeus   W   L           Other   174 100
+365                Pongo_pygmaeus   W   L           Other   174 100
+366                Pongo_pygmaeus   W   L           Other   174 100
+367                Pongo_pygmaeus   W   L           Other   174 100
+368                Pongo_pygmaeus   W   L           Other   174 100
+369                Pongo_pygmaeus   W   L           Other   174 100
+370                Pongo_pygmaeus   W   L           Other   174 100
+371                Pongo_pygmaeus   W   L           Other   174 100
+372                Pongo_pygmaeus   W   L           Other   174 100
+373                Pongo_pygmaeus   W   L           Other   174 100
+374                Pongo_pygmaeus   W   L           Other   174 100
+375                Pongo_pygmaeus   W   L           Other   174 100
+376                Pongo_pygmaeus   W   L           Other   174 100
+377                Pongo_pygmaeus   W   L           Other   174 100
+378                Pongo_pygmaeus   W   L           Other   174 100
+379                Pongo_pygmaeus   W   L           Other   174 100
+380                Pongo_pygmaeus   W   L           Other   174 100
+381                Pongo_pygmaeus   W   L           Other   174 100
+382                Pongo_pygmaeus   W   L           Other   174 100
+383                Pongo_pygmaeus   W   L           Other   174 100
+384                Pongo_pygmaeus   W   L           Other   174 100
+385                Pongo_pygmaeus   W   L           Other   174 100
+386                Pongo_pygmaeus   W   L           Other   174 100
+387                Pongo_pygmaeus   W   L           Other   174 100
+388                Pongo_pygmaeus   W   L           Other   174 100
+389                Pongo_pygmaeus   W   L           Other   174 100
+390                Pongo_pygmaeus   W   L           Other   174 100
+391                Pongo_pygmaeus   W   L           Other   174 100
+392        Peromyscus_maniculatus   W   L        Boldness   105 100
+393        Peromyscus_maniculatus   W   L      Aggression   126 100
+394        Peromyscus_maniculatus   W   L      Aggression   126 100
+395        Peromyscus_maniculatus   W   L      Aggression   126 100
+396        Peromyscus_maniculatus   W   L      Aggression   126 100
+397        Peromyscus_maniculatus   W   L      Aggression   126 100
+398             Phodopus_sungorus   W   L        Activity    50  50
+399             Phodopus_sungorus   W   L     Exploratory    50  50
+400       Tamiasciurus_hudsonicus   W   F        Activity   366 100
+401       Tamiasciurus_hudsonicus   W   F      Aggression   366 100
+402       Tamiasciurus_hudsonicus   W   F      Aggression   366 100
+403                  Mus_musculus   D   L        Activity   366 100
+404                  Mus_musculus   D   L        Activity   379 100
+405                  Mus_musculus   D   L        Activity   783 100
+406                  Mus_musculus   D   L        Activity   787 100
+407                  Mus_musculus   D   L        Activity   847 100
+408                  Mus_musculus   D   L        Activity   891 100
+409                  Mus_musculus   D   L        Activity  2063 100
+410                  Mus_musculus   D   L        Activity  2124 100
+411                  Mus_musculus   D   L        Activity  2139 100
+412                  Mus_musculus   D   L        Activity  2219 100
+413                  Mus_musculus   D   L        Activity  1260 100
+414                  Mus_musculus   W   L      Aggression   117 100
+415                  Mus_musculus   D   L Parental Effort    74  74
+416                  Mus_musculus   D   L Parental Effort    74  74
+417                  Mus_musculus   D   L Parental Effort    74  74
+418                  Mus_musculus   D   L Parental Effort    74  74
+419                  Mus_musculus   D   L Parental Effort    52  52
+420             Rattus_norvegicus   D   L        Boldness   120 100
+421             Rattus_norvegicus   D   L           Other    20  20
+422             Rattus_norvegicus   D   L           Other    20  20
+423          Marmota_flaviventris   W   F        Activity   187 100
+424          Marmota_flaviventris   W   F        Boldness   315 100
+425              Eulamprus_quoyii   W   F        Activity   670 100
+426              Eulamprus_quoyii   W   F        Activity   675 100
+427              Zootoca_vivipara   W   F        Activity    59  59
+428               Chrysemys_picta   W   F Parental Effort   631 100
+429               Chrysemys_picta   W   F Parental Effort   631 100
+430         Argopecten_purpuratus   W   L        Boldness   165 100
+431         Argopecten_purpuratus   W   L        Boldness   165 100
+432         Argopecten_purpuratus   W   L        Boldness   165 100
+433         Argopecten_purpuratus   W   L        Boldness   165 100
+434         Argopecten_purpuratus   W   L        Boldness   165 100
+435         Argopecten_purpuratus   W   L        Boldness   165 100
+436         Argopecten_purpuratus   W   L        Boldness   165 100
+437         Argopecten_purpuratus   W   L        Boldness   165 100
+438         Argopecten_purpuratus   W   L        Boldness   165 100
+439         Argopecten_purpuratus   W   L        Boldness   165 100
+440         Argopecten_purpuratus   W   L        Boldness   165 100
+441         Argopecten_purpuratus   W   L        Boldness   165 100
+442            Euprymna_tasmanica   W   L        Activity    97  97
+443            Euprymna_tasmanica   W   L        Activity    97  97
+444            Euprymna_tasmanica   W   L        Boldness    97  97
+445            Euprymna_tasmanica   W   L        Boldness    97  97
+446            Euprymna_tasmanica   W   L        Boldness    97  97
+447                Macaca_mulatta   W   F          Mating   847 100
+448           Cyanistes_caeruleus   W   F      Aggression  1841 100
+449           Cyanistes_caeruleus   W   F      Aggression  1743 100
+450 Girardinichthys_multiradiatus   W   L          Mating    54  54
+451 Girardinichthys_multiradiatus   W   L          Mating    46  46
+452               Serinus_canaria   W   L        Foraging    41  41
+453               Serinus_canaria   W   L        Foraging    41  41
+454               Serinus_canaria   W   L        Foraging    40  40
+455               Rhinella_marina   W   L        Boldness   273 100
+456               Rhinella_marina   W   L     Exploratory   273 100
+457               Rhinella_marina   W   L           Other   273 100
+458               Rhinella_marina   W   L     Exploratory   273 100
+459               Rhinella_marina   W   L        Boldness   273 100
+460           Poecilia_reticulata   W   L        Foraging    23  23
+461           Poecilia_reticulata   W   L        Foraging    22  22
+462           Poecilia_reticulata   W   L        Foraging    22  22
+463           Poecilia_reticulata   W   L        Foraging    23  23
+464           Poecilia_reticulata   W   L        Foraging    22  22
+465           Poecilia_reticulata   W   L        Foraging    22  22
+466           Poecilia_reticulata   W   L        Foraging    23  23
+467           Poecilia_reticulata   W   L        Foraging    22  22
+468           Poecilia_reticulata   W   L        Foraging    22  22
+469             Passer_domesticus   W   F Parental Effort    72  72
+470             Passer_domesticus   W   F Parental Effort    72  72
+471               Tamias_striatus   W   F        Boldness   217 100
+472               Hirundo_rustica   W   F          Social   146 100
+473               Hirundo_rustica   W   F          Social   146 100
+474              Panorpa_vulgaris   W   L        Foraging    38  38
+475                  Salmo_trutta   W   L           Other    27  27
+476                  Salmo_trutta   W   L        Boldness    27  27
+    Heritability          Zr
+1         0.6800 0.829114038
+2         0.2700 0.276863823
+3         0.1000 0.100335348
+4         0.1070 0.107411176
+5         0.0250 0.025005210
+6         0.3810 0.401228940
+7         0.0380 0.038018307
+8         0.1210 0.121595763
+9         0.6200 0.725005088
+10        0.3700 0.388423100
+11        0.2000 0.202732554
+12        0.0120 0.012000576
+13        0.0830 0.083191387
+14        0.0550 0.055055559
+15        0.1000 0.100335348
+16        0.1330 0.133792642
+17        0.1640 0.165494508
+18        0.3660 0.383796543
+19        0.0790 0.079164965
+20        0.1070 0.107411176
+21        0.1170 0.117538299
+22        0.3300 0.342828254
+23        0.2600 0.266108407
+24        0.2700 0.276863823
+25        0.2300 0.234189467
+26        0.0290 0.029008134
+27        0.0230 0.023004057
+28        0.0650 0.065091774
+29        0.0500 0.050041729
+30        0.0510 0.051044286
+31        0.0980 0.098315551
+32        0.1470 0.148072785
+33        0.2120 0.215264538
+34        0.2610 0.267181208
+35        0.2600 0.266108407
+36        0.0400 0.040021354
+37        0.0500 0.050041729
+38        0.1800 0.181982689
+39        0.0300 0.030009005
+40        0.2600 0.266108407
+41        0.1840 0.186119730
+42        0.1840 0.186119730
+43        0.5370 0.599930345
+44        0.2170 0.220505698
+45        0.5530 0.622692614
+46        0.8200 1.156817465
+47        0.2120 0.215264538
+48        0.3700 0.388423100
+49        0.4100 0.435611223
+50        0.5300 0.590145160
+51        0.4000 0.423648930
+52        0.3700 0.388423100
+53        0.2300 0.234189467
+54        0.2400 0.244774113
+55        0.2800 0.287682072
+56        0.1400 0.140925576
+57        0.1100 0.110446916
+58        0.0600 0.060072156
+59        0.3700 0.388423100
+60        0.3000 0.309519604
+61        0.0006 0.000600000
+62        0.0010 0.001000000
+63        0.0004 0.000400000
+64        0.7600 0.996215082
+65        0.3600 0.376885901
+66        0.1700 0.171666664
+67        0.2100 0.213171347
+68        0.2900 0.298566264
+69        0.5000 0.549306144
+70        0.0300 0.030009005
+71        0.0700 0.070114671
+72        0.3040 0.313921041
+73        0.2490 0.254346429
+74        0.2600 0.266108407
+75        0.2700 0.276863823
+76        0.0000 0.000000000
+77        0.0000 0.000000000
+78        0.1030 0.103366579
+79        0.0000 0.000000000
+80        0.0160 0.016001366
+81        0.0000 0.000000000
+82        0.1110 0.111459277
+83        0.0610 0.061075830
+84        0.0000 0.000000000
+85        0.0000 0.000000000
+86        0.0520 0.052046946
+87        0.0000 0.000000000
+88        0.0000 0.000000000
+89        0.0790 0.079164965
+90        0.0300 0.030009005
+91        0.0570 0.057061852
+92        0.0000 0.000000000
+93        0.0030 0.003000009
+94        0.0000 0.000000000
+95        0.2650 0.271478451
+96        0.0000 0.000000000
+97        0.0200 0.020002667
+98        0.0100 0.010000333
+99        0.0930 0.093269519
+100       0.0660 0.066096083
+101       0.3070 0.317229857
+102       0.3010 0.310618868
+103       0.2420 0.246897438
+104       0.2490 0.254346429
+105       0.1240 0.124641470
+106       0.0260 0.026005861
+107       0.0250 0.025005210
+108       0.1350 0.135829211
+109       0.0480 0.048036915
+110       0.1560 0.157284277
+111       0.0110 0.011000444
+112       0.1400 0.140925576
+113       0.1380 0.138886172
+114       0.3530 0.368866667
+115       0.2820 0.289853534
+116       0.2670 0.273630739
+117       0.1800 0.181982689
+118       0.0360 0.036015564
+119       0.0020 0.002000003
+120       0.1720 0.173726908
+121       0.1380 0.138886172
+122       0.2190 0.222605490
+123       0.3290 0.341706461
+124       0.1400 0.140925576
+125       0.4500 0.484700279
+126       0.0700 0.070114671
+127       0.1730 0.174757577
+128       0.1960 0.198569333
+129       0.3260 0.338346030
+130       0.4180 0.445266130
+131       0.2250 0.228916547
+132       0.0510 0.051044286
+133       0.1930 0.195451377
+134       0.2360 0.240533924
+135       0.0330 0.033011987
+136       0.4600 0.497311288
+137       0.0000 0.000000000
+138       0.1700 0.171666664
+139       0.0500 0.050041729
+140       0.2600 0.266108407
+141       0.3900 0.411800034
+142       0.3200 0.331647109
+143       0.1300 0.130739850
+144       0.1500 0.151140436
+145       0.1460 0.147050852
+146       0.3300 0.342828254
+147       0.1700 0.171666664
+148       0.2300 0.234189467
+149       0.1000 0.100335348
+150       0.5300 0.590145160
+151       0.3500 0.365443754
+152       0.6000 0.693147181
+153       0.1000 0.100335348
+154       0.3800 0.400059650
+155       0.0000 0.000000000
+156       0.2700 0.276863823
+157       0.0900 0.090244188
+158       0.3200 0.331647109
+159       0.1600 0.161386696
+160       0.2200 0.223656109
+161       0.1500 0.151140436
+162       0.1200 0.120581028
+163       0.1600 0.161386696
+164       0.0800 0.080171325
+165       0.3000 0.309519604
+166       0.1300 0.130739850
+167       0.1500 0.151140436
+168       0.4900 0.536060337
+169       0.1800 0.181982689
+170       0.3800 0.400059650
+171       0.0700 0.070114671
+172       0.3500 0.365443754
+173       0.2000 0.202732554
+174       0.4500 0.484700279
+175       0.0900 0.090244188
+176       0.1400 0.140925576
+177       0.0700 0.070114671
+178       0.2700 0.276863823
+179       0.0800 0.080171325
+180       0.1800 0.181982689
+181       0.1700 0.171666664
+182       0.1400 0.140925576
+183       0.1400 0.140925576
+184       0.1100 0.110446916
+185       0.1000 0.100335348
+186       0.0200 0.020002667
+187       0.0500 0.050041729
+188       0.1100 0.110446916
+189       0.1400 0.140925576
+190       0.0600 0.060072156
+191       0.0700 0.070114671
+192       0.0400 0.040021354
+193       0.0900 0.090244188
+194       0.1000 0.100335348
+195       0.1400 0.140925576
+196       0.0000 0.000000000
+197       0.1700 0.171666664
+198       0.5500 0.618381314
+199       0.2700 0.276863823
+200       0.3800 0.400059650
+201       0.9800 2.297559925
+202       0.6020 0.696278061
+203       0.0850 0.085205600
+204       0.0000 0.000000000
+205       0.0000 0.000000000
+206       0.2690 0.275785504
+207       0.0000 0.000000000
+208       0.1000 0.100335348
+209       0.2900 0.298566264
+210       0.8100 1.127029026
+211       0.1700 0.171666664
+212       0.1400 0.140925576
+213       0.5360 0.598526181
+214       0.4332 0.463829239
+215       0.4134 0.439705136
+216       0.4152 0.441878117
+217       0.2980 0.307323247
+218       0.2600 0.266108407
+219       0.2660 0.272554287
+220       0.2470 0.252215359
+221       0.5450 0.611240885
+222       0.2260 0.229970121
+223       0.2810 0.288767472
+224       0.1000 0.100335348
+225       0.6100 0.708921359
+226       0.2260 0.229970121
+227       0.2810 0.288767472
+228       0.2700 0.276863823
+229       0.0100 0.010000333
+230       0.3400 0.354092529
+231       0.2700 0.276863823
+232       0.3000 0.309519604
+233       0.6000 0.693147181
+234       0.5200 0.576339755
+235       0.3400 0.354092529
+236       0.7600 0.996215082
+237       0.3200 0.331647109
+238       0.8800 1.375767657
+239       0.1700 0.171666664
+240       0.3000 0.309519604
+241       0.1900 0.192337169
+242       0.2650 0.271478451
+243       0.4000 0.423648930
+244       0.2600 0.266108407
+245       0.3200 0.331647109
+246       0.3100 0.320545409
+247       0.3400 0.354092529
+248       0.3700 0.388423100
+249       0.1700 0.171666664
+250       0.4600 0.497311288
+251       0.0260 0.026005861
+252       0.3200 0.331647109
+253       0.0416 0.041624022
+254       0.1600 0.161386696
+255       0.0900 0.090244188
+256       0.2700 0.276863823
+257       0.2500 0.255412812
+258       0.2100 0.213171347
+259       0.2900 0.298566264
+260       0.2800 0.287682072
+261       0.1300 0.130739850
+262       0.3900 0.411800034
+263       0.1600 0.161386696
+264       0.1800 0.181982689
+265       0.1900 0.192337169
+266       0.3300 0.342828254
+267       0.2100 0.213171347
+268       0.5100 0.562729769
+269       0.1700 0.171666664
+270       0.1700 0.171666664
+271       0.3000 0.309519604
+272       0.2700 0.276863823
+273       0.3300 0.342828254
+274       0.2400 0.244774113
+275       0.1100 0.110446916
+276       0.1200 0.120581028
+277       0.1500 0.151140436
+278       0.1200 0.120581028
+279       0.2700 0.276863823
+280       0.2200 0.223656109
+281       0.2100 0.213171347
+282       0.1600 0.161386696
+283       0.2700 0.276863823
+284       0.2200 0.223656109
+285       0.1600 0.161386696
+286       0.2400 0.244774113
+287       0.3200 0.331647109
+288       0.3800 0.400059650
+289       0.1800 0.181982689
+290       0.2800 0.287682072
+291       0.1400 0.140925576
+292       0.1900 0.192337169
+293       0.3000 0.309519604
+294       0.2900 0.298566264
+295       0.1300 0.130739850
+296       0.3600 0.376885901
+297       0.3000 0.309519604
+298       0.3800 0.400059650
+299       0.1200 0.120581028
+300       0.2800 0.287682072
+301       0.3200 0.331647109
+302       0.1500 0.151140436
+303       0.3000 0.309519604
+304       0.2900 0.298566264
+305       0.5000 0.549306144
+306       0.2800 0.287682072
+307       0.2200 0.223656109
+308       0.3200 0.331647109
+309       0.3700 0.388423100
+310       0.1900 0.192337169
+311       0.3100 0.320545409
+312       0.2400 0.244774113
+313       0.2700 0.276863823
+314       0.2000 0.202732554
+315       0.2400 0.244774113
+316       0.2100 0.213171347
+317       0.2300 0.234189467
+318       0.2000 0.202732554
+319       0.1400 0.140925576
+320       0.2700 0.276863823
+321       0.2200 0.223656109
+322       0.0550 0.055055559
+323       0.2210 0.224707214
+324       0.7960 1.087598628
+325       0.0540 0.054052580
+326       0.2200 0.223656109
+327       0.1400 0.140925576
+328       0.1900 0.192337169
+329       0.1400 0.140925576
+330       0.2500 0.255412812
+331       0.6900 0.847955755
+332       0.2200 0.223656109
+333       0.8200 1.156817465
+334       0.1600 0.161386696
+335       0.7100 0.887183863
+336       0.1800 0.181982689
+337       0.2200 0.223656109
+338       0.1900 0.192337169
+339       0.1800 0.181982689
+340       0.1500 0.151140436
+341       0.2600 0.266108407
+342       0.7200 0.907644983
+343       0.2200 0.223656109
+344       0.7800 1.045370548
+345       0.1900 0.192337169
+346       0.7800 1.045370548
+347       0.2100 0.213171347
+348       0.1300 0.130739850
+349       0.2500 0.255412812
+350       0.2200 0.223656109
+351       0.1600 0.161386696
+352       0.2900 0.298566264
+353       0.6700 0.810743125
+354       0.2300 0.234189467
+355       0.6600 0.792813632
+356       0.2200 0.223656109
+357       0.7300 0.928727364
+358       0.3000 0.309519604
+359       0.2900 0.298566264
+360       0.2800 0.287682072
+361       0.2300 0.234189467
+362       0.1600 0.161386696
+363       0.2700 0.276863823
+364       0.6400 0.758173745
+365       0.2900 0.298566264
+366       0.6900 0.847955755
+367       0.2800 0.287682072
+368       0.7300 0.928727364
+369       0.3500 0.365443754
+370       0.2200 0.223656109
+371       0.2100 0.213171347
+372       0.2300 0.234189467
+373       0.1500 0.151140436
+374       0.2500 0.255412812
+375       0.6800 0.829114038
+376       0.2200 0.223656109
+377       0.6900 0.847955755
+378       0.2900 0.298566264
+379       0.7000 0.867300528
+380       0.3000 0.309519604
+381       0.1800 0.181982689
+382       0.2400 0.244774113
+383       0.1900 0.192337169
+384       0.1800 0.181982689
+385       0.1500 0.151140436
+386       0.1900 0.192337169
+387       0.7200 0.907644983
+388       0.2400 0.244774113
+389       0.7700 1.020327758
+390       0.2300 0.234189467
+391       0.7800 1.045370548
+392       0.1200 0.120581028
+393       0.2020 0.204816759
+394       0.0330 0.033011987
+395       0.0360 0.036015564
+396       0.0980 0.098315551
+397       0.0500 0.050041729
+398       0.0700 0.070114671
+399       0.1800 0.181982689
+400       0.0800 0.080171325
+401       0.1200 0.120581028
+402       0.0900 0.090244188
+403       0.3400 0.354092529
+404       0.1800 0.181982689
+405       0.2300 0.234189467
+406       0.2100 0.213171347
+407       0.2500 0.255412812
+408       0.1800 0.181982689
+409       0.1100 0.110446916
+410       0.1800 0.181982689
+411       0.1500 0.151140436
+412       0.1400 0.140925576
+413       0.4400 0.472230804
+414       0.5800 0.662462707
+415       0.0900 0.090244188
+416       0.1300 0.130739850
+417       0.2400 0.244774113
+418       0.3500 0.365443754
+419       0.1400 0.140925576
+420       0.3580 0.374590002
+421       0.5630 0.637214568
+422       0.0510 0.051044286
+423       0.2100 0.213171347
+424       0.0800 0.080171325
+425       0.3740 0.393065551
+426       0.0010 0.001000000
+427       0.4100 0.435611223
+428       0.0000 0.000000000
+429       0.0430 0.043026532
+430       0.3400 0.354092529
+431       0.5100 0.562729769
+432       0.3600 0.376885901
+433       0.5700 0.647522845
+434       0.0000 0.000000000
+435       0.5700 0.647522845
+436       0.1000 0.100335348
+437       0.3600 0.376885901
+438       0.2800 0.287682072
+439       0.0800 0.080171325
+440       0.3400 0.354092529
+441       0.2400 0.244774113
+442       0.0470 0.047034654
+443       0.6740 0.818036935
+444       0.0790 0.079164965
+445       0.8910 1.426756593
+446       0.2130 0.216311830
+447       0.2040 0.206902720
+448       0.3500 0.365443754
+449       0.2000 0.202732554
+450       0.1800 0.181982689
+451       0.3200 0.331647109
+452       0.1760 0.177851799
+453       0.2140 0.217359590
+454       0.1580 0.159334822
+455       0.3000 0.309519604
+456       0.2600 0.266108407
+457       0.3200 0.331647109
+458       0.2300 0.234189467
+459       0.4700 0.510070337
+460       0.6600 0.792813632
+461       0.5700 0.647522845
+462       0.6200 0.725005088
+463       0.5700 0.647522845
+464       0.6100 0.708921359
+465       0.5900 0.677666068
+466       0.6100 0.708921359
+467       0.5900 0.677666068
+468       0.6000 0.693147181
+469       0.0005 0.000500000
+470       0.0005 0.000500000
+471       0.1700 0.171666664
+472       0.4690 0.508787577
+473       0.3450 0.359757028
+474       0.1500 0.151140436
+475       0.0140 0.014000915
+476       0.1420 0.142966145
+  Estimate.ID Study.ID Vert Thermy     Phylum      Class         Order
+1           1    40186   IV   Ecto   Annelida Polychaeta Canalipalpata
+2           2    20006   IV   Ecto Arthropoda  Arachnida       Araneae
+3           3    20006   IV   Ecto Arthropoda  Arachnida       Araneae
+4           4    10001   IV   Ecto Arthropoda  Arachnida       Araneae
+5           5    10001   IV   Ecto Arthropoda  Arachnida       Araneae
+6           6    10001   IV   Ecto Arthropoda  Arachnida       Araneae
+      Family       Genus species.epithet                     phylo D.W L.F
+1 Serpulidae   Hydroides        dianthus        Hydroides_dianthus   W   L
+2 Agelenidae Agelenopsis   pennsylvanica Agelenopsis_pennsylvanica   W   L
+3 Agelenidae Agelenopsis   pennsylvanica Agelenopsis_pennsylvanica   W   L
+4  Araneidae Larinioides    sclopetarius  Larinioides_sclopetarius   W   L
+5  Araneidae Larinioides    sclopetarius  Larinioides_sclopetarius   W   L
+6  Araneidae Larinioides    sclopetarius  Larinioides_sclopetarius   W   L
+    Behavior   N N.C Heritability         Zr
+1  Migration 110 100        0.680 0.82911404
+2 Aggression  54  54        0.270 0.27686382
+3   Boldness  54  54        0.100 0.10033535
+4   Activity 331 100        0.107 0.10741118
+5 Aggression 301 100        0.025 0.02500521
+6 Aggression 331 100        0.381 0.40122894
+'data.frame':	476 obs. of  18 variables:
+ $ Estimate.ID    : int  1 2 3 4 5 6 7 8 9 10 ...
+ $ Study.ID       : int  40186 20006 20006 10001 10001 10001 10001 10001 20007 20007 ...
+ $ Vert           : chr  "IV" "IV" "IV" "IV" ...
+ $ Thermy         : chr  "Ecto" "Ecto" "Ecto" "Ecto" ...
+ $ Phylum         : chr  "Annelida" "Arthropoda" "Arthropoda" "Arthropoda" ...
+ $ Class          : chr  "Polychaeta" "Arachnida" "Arachnida" "Arachnida" ...
+ $ Order          : chr  "Canalipalpata" "Araneae" "Araneae" "Araneae" ...
+ $ Family         : chr  "Serpulidae" "Agelenidae" "Agelenidae" "Araneidae" ...
+ $ Genus          : chr  "Hydroides" "Agelenopsis" "Agelenopsis" "Larinioides" ...
+ $ species.epithet: chr  "dianthus" "pennsylvanica" "pennsylvanica" "sclopetarius" ...
+ $ phylo          : chr  "Hydroides_dianthus" "Agelenopsis_pennsylvanica" "Agelenopsis_pennsylvanica" "Larinioides_sclopetarius" ...
+ $ D.W            : chr  "W" "W" "W" "W" ...
+ $ L.F            : chr  "L" "L" "L" "L" ...
+ $ Behavior       : chr  "Migration" "Aggression" "Boldness" "Activity" ...
+ $ N              : int  110 54 54 331 301 331 331 301 1000 1000 ...
+ $ N.C            : int  100 54 54 100 100 100 100 100 100 100 ...
+ $ Heritability   : num  0.68 0.27 0.1 0.107 0.025 0.381 0.038 0.121 0.62 0.37 ...
+ $ Zr             : num  0.829 0.277 0.1 0.107 0.025 ...
+Linear mixed model fit by REML ['lmerMod']
+Formula: Heritability ~ Vert + Thermy + D.W + L.F + Behavior + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: -291.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.1810 -0.5739 -0.1852  0.3794  3.6113 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.01541  0.1241  
+ Residual             0.02254  0.1501  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.243262   0.084273   2.887
+VertV                   -0.095860   0.048157  -1.991
+ThermyEndo               0.086782   0.047743   1.818
+D.WS                     0.114507   0.086837   1.319
+D.WW                     0.032558   0.049037   0.664
+L.FL                     0.024352   0.046337   0.526
+BehaviorAggression       0.000798   0.047796   0.017
+BehaviorBoldness        -0.025659   0.040885  -0.628
+BehaviorCommunication    0.124725   0.110632   1.127
+BehaviorExploratory     -0.021811   0.051674  -0.422
+BehaviorForaging        -0.035436   0.056531  -0.627
+BehaviorMating          -0.025770   0.054523  -0.473
+BehaviorMigration        0.159271   0.073978   2.153
+BehaviorOther           -0.051334   0.050323  -1.020
+BehaviorParental Effort -0.044085   0.060280  -0.731
+BehaviorSocial           0.003149   0.057946   0.054
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: -16
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.0724 -0.5221 -0.1612  0.2752  5.6083 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.02303  0.1517  
+ Residual             0.04346  0.2085  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.275067   0.046698   5.890
+BehaviorAggression       0.017771   0.063918   0.278
+BehaviorBoldness        -0.008949   0.054570  -0.164
+BehaviorCommunication    0.462739   0.142483   3.248
+BehaviorExploratory     -0.028302   0.068777  -0.412
+BehaviorForaging        -0.021697   0.073309  -0.296
+BehaviorMating           0.002514   0.067310   0.037
+BehaviorMigration        0.208987   0.092246   2.266
+BehaviorOther           -0.042822   0.066279  -0.646
+BehaviorParental Effort -0.047352   0.078162  -0.606
+BehaviorSocial           0.001859   0.079353   0.023
+
+Correlation of Fixed Effects:
+            (Intr) BhvrAg BhvrBl BhvrCm BhvrEx BhvrFr BhvrMt BhvrMg BhvrOt
+BhvrAggrssn -0.629                                                        
+BehvrBldnss -0.690  0.489                                                 
+BhvrCmmnctn -0.309  0.263  0.244                                          
+BhvrExplrtr -0.565  0.362  0.444  0.178                                   
+BehavrFrgng -0.579  0.383  0.452  0.183  0.333                            
+BehavirMtng -0.690  0.455  0.478  0.216  0.390  0.400                     
+BehavrMgrtn -0.506  0.318  0.349  0.156  0.286  0.293  0.349              
+BehavirOthr -0.582  0.390  0.435  0.184  0.346  0.386  0.402  0.294       
+BhvrPrntlEf -0.597  0.376  0.412  0.185  0.337  0.346  0.412  0.302  0.348
+BehaviorScl -0.353  0.237  0.335  0.115  0.297  0.214  0.244  0.178  0.213
+            BhvrPE
+BhvrAggrssn       
+BehvrBldnss       
+BhvrCmmnctn       
+BhvrExplrtr       
+BehavrFrgng       
+BehavirMtng       
+BehavrMgrtn       
+BehavirOthr       
+BhvrPrntlEf       
+BehaviorScl  0.211
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + Phylum * Class + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: -0.3
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.3238 -0.5078 -0.1686  0.2827  5.4919 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.02463  0.1569  
+ Residual             0.04337  0.2083  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.699495   0.280934   2.490
+BehaviorAggression       0.024779   0.065932   0.376
+BehaviorBoldness        -0.022526   0.057131  -0.394
+BehaviorCommunication    0.437963   0.145018   3.020
+BehaviorExploratory     -0.043307   0.072021  -0.601
+BehaviorForaging        -0.018377   0.077283  -0.238
+BehaviorMating           0.009509   0.076097   0.125
+BehaviorMigration        0.129619   0.104529   1.240
+BehaviorOther           -0.049294   0.068420  -0.720
+BehaviorParental Effort -0.058588   0.082993  -0.706
+BehaviorSocial          -0.007896   0.080543  -0.098
+PhylumArthropoda        -0.442697   0.282085  -1.569
+PhylumChordata          -0.446475   0.280345  -1.593
+PhylumMollusca          -0.168518   0.333268  -0.506
+ClassAmphibia           -0.011830   0.126196  -0.094
+ClassArachnida          -0.098731   0.152592  -0.647
+ClassAves                0.073251   0.064861   1.129
+ClassBivalvia           -0.144342   0.223815  -0.645
+ClassMammalia            0.008771   0.070478   0.124
+ClassReptilia           -0.055987   0.225297  -0.249
+ClassReptilia           -0.028883   0.178149  -0.162
+fit warnings:
+fixed-effect model matrix is rank deficient so dropping 33 columns / coefficients
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + Class * Family + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: 16.5
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.4664 -0.4468 -0.1354  0.2675  5.1734 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.02373  0.1540  
+ Residual             0.04393  0.2096  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.283796   0.186164   1.524
+BehaviorAggression       0.017691   0.070897   0.250
+BehaviorBoldness         0.009881   0.060948   0.162
+BehaviorCommunication    0.480642   0.162003   2.967
+BehaviorExploratory     -0.009843   0.081794  -0.120
+BehaviorForaging        -0.017936   0.095921  -0.187
+BehaviorMating          -0.108102   0.104489  -1.035
+BehaviorMigration       -0.027766   0.176540  -0.157
+BehaviorOther           -0.094614   0.075936  -1.246
+BehaviorParental Effort -0.118711   0.142361  -0.834
+BehaviorSocial          -0.004972   0.083104  -0.060
+ClassAmphibia           -0.283796   0.319864  -0.887
+ClassArachnida          -0.150610   0.256984  -0.586
+ClassAves               -0.188119   0.288934  -0.651
+ClassBivalvia            0.070077   0.222310   0.315
+ClassCephalopoda         0.227736   0.256160   0.889
+ClassInsecta             0.223338   0.333364   0.670
+ClassMammalia            0.050980   0.272759   0.187
+ClassPolychaeta          0.573084   0.324738   1.765
+ClassReptilia           -0.086763   0.283456  -0.306
+ClassReptilia            0.151815   0.319864   0.475
+FamilyAegithalidae       0.641416   0.369598   1.735
+FamilyAgelenidae         0.041627   0.280584   0.148
+FamilyApodidae           0.041493   0.346295   0.120
+FamilyBovidae            0.005566   0.236129   0.024
+FamilyBraconidae        -0.303079   0.373881  -0.811
+FamilyBufonidae          0.349215   0.321255   1.087
+FamilyCercopithecidae    0.004708   0.248892   0.019
+FamilyChrysomelidae      0.157682   0.375805   0.420
+FamilyCichlidae         -0.059629   0.234523  -0.254
+FamilyCoenagrionidae    -0.290123   0.350509  -0.828
+FamilyCricetidae        -0.240898   0.223556  -1.078
+FamilyCyprinidae         0.393909   0.282448   1.395
+FamilyDrosophilidae     -0.280149   0.329092  -0.851
+FamilyDrosophilidae     -0.224759   0.335307  -0.670
+FamilyEmydidae          -0.295387   0.365532  -0.808
+FamilyEstrildidae        0.330477   0.256794   1.287
+FamilyFalconidae         0.522235   0.384135   1.360
+FamilyFringillidae       0.285553   0.271825   1.051
+FamilyFundulidae         0.069587   0.265909   0.262
+FamilyGasterosteidae    -0.116239   0.204441  -0.569
+FamilyGerridae          -0.223090   0.402185  -0.555
+FamilyGoodeidae          0.081121   0.294803   0.275
+FamilyGrillidae         -0.431756   0.365841  -1.180
+FamilyHaenidae          -0.405904   0.274494  -1.479
+FamilyHirundinidae       0.430784   0.263703   1.634
+FamilyHominidae          0.113948   0.236644   0.482
+FamilyLaridae            0.196735   0.306232   0.642
+FamilyMuridae            0.022069   0.223392   0.099
+FamilyMuscicapidae       0.239413   0.384135   0.623
+FamilyMuscidae          -0.354001   0.375805  -0.942
+FamilyPanorpidae        -0.338058   0.402185  -0.841
+FamilyParidae            0.228360   0.231606   0.986
+FamilyPasseridae         0.194034   0.290204   0.669
+FamilyPhasianidae        0.103548   0.246611   0.420
+FamilyPicidae            0.444412   0.338543   1.313
+FamilyPlethodontidae     0.234099   0.326892   0.716
+FamilyPoeciliidae        0.028752   0.207572   0.139
+FamilyPteromalidae       0.250954   0.360897   0.695
+FamilyPyralidae         -0.183768   0.403974  -0.455
+FamilySciuridae         -0.193045   0.296811  -0.650
+FamilyScuridiae         -0.172990   0.333062  -0.519
+FamilySepsidae          -0.293037   0.375805  -0.780
+FamilySilphidae         -0.289115   0.325615  -0.888
+FamilyTenebrionidae     -0.374192   0.342586  -1.092
+FamilyTorticidae         0.049828   0.346443   0.144
+FamilyTurdidae           0.570818   0.297690   1.917
+fit warnings:
+fixed-effect model matrix is rank deficient so dropping 570 columns / coefficients
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + Genus + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: 19.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.6336 -0.4331 -0.0918  0.2661  5.0001 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.03237  0.1799  
+ Residual             0.04400  0.2098  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.341717   0.299727   1.140
+BehaviorAggression       0.035242   0.076246   0.462
+BehaviorBoldness        -0.003798   0.063099  -0.060
+BehaviorCommunication    0.428623   0.167717   2.556
+BehaviorExploratory     -0.035062   0.085785  -0.409
+BehaviorForaging        -0.058665   0.102195  -0.574
+BehaviorMating          -0.126453   0.116035  -1.090
+BehaviorMigration        0.076503   0.215187   0.356
+BehaviorOther           -0.130201   0.083513  -1.559
+BehaviorParental Effort -0.076942   0.174557  -0.441
+BehaviorSocial          -0.007005   0.085433  -0.082
+GenusAcrocephalus       -0.220821   0.383005  -0.577
+GenusAegithalos          0.353606   0.435754   0.811
+GenusAgelenopsis        -0.168840   0.377199  -0.448
+GenusAmatitlania         0.026685   0.378539   0.070
+GenusAquarius           -0.016944   0.408010  -0.042
+GenusArgopecten          0.027873   0.330720   0.084
+GenusBos                -0.105481   0.407359  -0.259
+GenusChrysemys          -0.243262   0.409733  -0.594
+GenusCotesia            -0.096933   0.380094  -0.255
+GenusCrocuta            -0.396322   0.362100  -1.095
+GenusCyanistes          -0.092871   0.379396  -0.245
+GenusDanio               0.327212   0.377652   0.866
+GenusDiabrotica          0.341450   0.361585   0.944
+GenusDrosophila         -0.065621   0.301247  -0.218
+GenusEnallagma          -0.111026   0.364047  -0.305
+GenusEulamprus          -0.144684   0.379747  -0.381
+GenusEuprymna            0.178023   0.360063   0.494
+GenusFalco               0.171925   0.455505   0.377
+GenusFicedula           -0.110897   0.455505  -0.243
+GenusGallus             -0.120374   0.315125  -0.382
+GenusGasterosteus       -0.165243   0.314523  -0.525
+GenusGirardinichthys     0.041550   0.361585   0.115
+GenusGrapholita          0.148403   0.351913   0.422
+GenusGryllus            -0.252659   0.378854  -0.667
+GenusHirundo             0.133140   0.360335   0.369
+GenusHydroides           0.410894   0.455505   0.902
+GenusLarinioides        -0.204670   0.357751  -0.572
+GenusLarus               0.078053   0.435754   0.179
+GenusLobesia             0.267871   0.351298   0.763
+GenusLucania             0.012066   0.350775   0.034
+GenusMacaca             -0.008362   0.390825  -0.021
+GenusMarmota            -0.193147   0.377986  -0.511
+GenusMus                -0.014828   0.320424  -0.046
+GenusMusca              -0.170233   0.361585  -0.471
+GenusNasonia             0.434722   0.346040   1.256
+GenusNeolamprologus     -0.264109   0.400684  -0.659
+GenusNicrophorus        -0.165468   0.400684  -0.413
+GenusOvis                0.036537   0.336157   0.109
+GenusPan                 0.019755   0.363004   0.054
+GenusPanorpa            -0.131912   0.408010  -0.323
+GenusPapio               0.042179   0.353211   0.119
+GenusParus               0.011500   0.316841   0.036
+GenusPasser             -0.093304   0.363103  -0.257
+GenusPeromyscus         -0.217338   0.406854  -0.534
+GenusPeromyscus         -0.292519   0.361581  -0.809
+GenusPetrochelidon       0.236955   0.372502   0.636
+GenusPhodopus           -0.198137   0.378960  -0.523
+GenusPicoides            0.094103   0.417714   0.225
+GenusPlethodon          -0.066889   0.358827  -0.186
+GenusPoecilia            0.043537   0.300386   0.145
+GenusPongo               0.200911   0.353211   0.569
+GenusRana               -0.341717   0.407687  -0.838
+GenusRattus              0.092714   0.347401   0.267
+GenusRhinella            0.030174   0.359853   0.084
+GenusSalmo              -0.081736   0.356266  -0.229
+GenusSepsis             -0.109269   0.361585  -0.302
+GenusSerinus             0.066977   0.319526   0.210
+GenusSialia              0.251078   0.367949   0.682
+GenusSterna             -0.249490   0.422080  -0.591
+GenusSus                -0.024492   0.369605  -0.066
+GenusTachymarptis\xa0   -0.190868   0.406854  -0.469
+GenusTaeniopygia         0.113170   0.306000   0.370
+GenusTamias             -0.166252   0.406854  -0.409
+GenusTamiasciurus       -0.268213   0.367974  -0.729
+GenusTribolium          -0.195095   0.356412  -0.547
+GenusXiphophorus        -0.279655   0.377652  -0.741
+GenusZootoca             0.093894   0.407687   0.230
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + (1 | Study.ID) + (1 | Family) + (1 | Genus) +  
+    (1 | Phylum) + (1 | Class) + (1 | Order)
+   Data: data
+
+REML criterion at convergence: -16.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.0878 -0.5224 -0.1762  0.2756  5.5942 
+
+Random effects:
+ Groups   Name        Variance  Std.Dev. 
+ Study.ID (Intercept) 2.130e-02 1.460e-01
+ Genus    (Intercept) 3.686e-10 1.920e-05
+ Family   (Intercept) 6.726e-12 2.593e-06
+ Order    (Intercept) 1.816e-03 4.262e-02
+ Class    (Intercept) 0.000e+00 0.000e+00
+ Phylum   (Intercept) 1.639e-10 1.280e-05
+ Residual             4.345e-02 2.084e-01
+Number of obs: 476, groups:  
+Study.ID, 101; Genus, 68; Family, 57; Order, 32; Class, 11; Phylum, 4
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.275397   0.047882   5.752
+BehaviorAggression       0.012559   0.063776   0.197
+BehaviorBoldness        -0.010012   0.054548  -0.184
+BehaviorCommunication    0.456250   0.142043   3.212
+BehaviorExploratory     -0.040109   0.069376  -0.578
+BehaviorForaging        -0.024533   0.073578  -0.333
+BehaviorMating          -0.003586   0.068512  -0.052
+BehaviorMigration        0.193755   0.092624   2.092
+BehaviorOther           -0.044241   0.066571  -0.665
+BehaviorParental Effort -0.061588   0.078233  -0.787
+BehaviorSocial          -0.002541   0.079447  -0.032
+
+Correlation of Fixed Effects:
+            (Intr) BhvrAg BhvrBl BhvrCm BhvrEx BhvrFr BhvrMt BhvrMg BhvrOt
+BhvrAggrssn -0.612                                                        
+BehvrBldnss -0.682  0.488                                                 
+BhvrCmmnctn -0.304  0.265  0.246                                          
+BhvrExplrtr -0.545  0.363  0.442  0.192                                   
+BehavrFrgng -0.576  0.386  0.453  0.187  0.334                            
+BehavirMtng -0.674  0.452  0.474  0.220  0.398  0.416                     
+BehavrMgrtn -0.504  0.320  0.353  0.168  0.301  0.298  0.354              
+BehavirOthr -0.570  0.393  0.435  0.186  0.343  0.387  0.402  0.296       
+BhvrPrntlEf -0.578  0.378  0.415  0.197  0.355  0.345  0.414  0.318  0.345
+BehaviorScl -0.344  0.238  0.336  0.121  0.307  0.215  0.245  0.186  0.213
+            BhvrPE
+BhvrAggrssn       
+BehvrBldnss       
+BhvrCmmnctn       
+BhvrExplrtr       
+BehavrFrgng       
+BehavirMtng       
+BehavrMgrtn       
+BehavirOthr       
+BhvrPrntlEf       
+BehaviorScl  0.217
+optimizer (nloptwrap) convergence code: 0 (OK)
+boundary (singular) fit: see help('isSingular')
+
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + species.epithet + (1 | Study.ID) + (1 | Family) +  
+    (1 | Genus) + (1 | Phylum) + (1 | Class) + (1 | Order)
+   Data: data
+
+REML criterion at convergence: 19.5
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.6614 -0.4391 -0.0929  0.2656  4.9563 
+
+Random effects:
+ Groups   Name        Variance  Std.Dev. 
+ Study.ID (Intercept) 3.397e-02 1.843e-01
+ Genus    (Intercept) 0.000e+00 0.000e+00
+ Family   (Intercept) 4.983e-04 2.232e-02
+ Order    (Intercept) 5.089e-11 7.134e-06
+ Class    (Intercept) 4.615e-02 2.148e-01
+ Phylum   (Intercept) 6.653e-02 2.579e-01
+ Residual             4.419e-02 2.102e-01
+Number of obs: 476, groups:  
+Study.ID, 101; Genus, 68; Family, 57; Order, 32; Class, 11; Phylum, 4
+
+Fixed effects:
+                                      Estimate Std. Error t value
+(Intercept)                           0.501002   0.481466   1.041
+BehaviorAggression                    0.033604   0.076412   0.440
+BehaviorBoldness                      0.001546   0.063477   0.024
+BehaviorCommunication                 0.417644   0.169333   2.466
+BehaviorExploratory                  -0.028524   0.086607  -0.329
+BehaviorForaging                     -0.062247   0.103563  -0.601
+BehaviorMating                       -0.147270   0.124597  -1.182
+BehaviorMigration                    -0.064721   0.271585  -0.238
+BehaviorOther                        -0.125105   0.084862  -1.474
+BehaviorParental Effort              -0.112579   0.201164  -0.560
+BehaviorSocial                       -0.010415   0.085898  -0.121
+species.epithetaculeatus             -0.326790   0.597081  -0.547
+species.epithetalbicollis            -0.128957   0.670931  -0.192
+species.epithetananassae             -0.072081   0.422416  -0.171
+species.epithetanubis x cynocephalus -0.122203   0.621075  -0.197
+species.epithetaries                 -0.077131   0.629413  -0.123
+species.epithetbirchmanni            -0.438121   0.633328  -0.692
+species.epithetborealis               0.076042   0.645762   0.118
+species.epithetbotrana                0.129403   0.426624   0.303
+species.epithetcaeruleus             -0.250518   0.635664  -0.394
+species.epithetcanadensis            -0.181258   0.634378  -0.286
+species.epithetcanaria               -0.079971   0.613384  -0.130
+species.epithetcastaneum             -0.359725   0.402086  -0.895
+species.epithetcaudatus               0.229958   0.618616   0.372
+species.epithetcinereus              -0.222592   0.628174  -0.354
+species.epithetcrocuta               -0.551629   0.627123  -0.880
+species.epithetcynipsea              -0.247736   0.435170  -0.569
+species.epithetdianthus               0.392833   0.670931   0.586
+species.epithetdomestica             -0.308700   0.435170  -0.709
+species.epithetdomesticus            -0.216862   0.568726  -0.381
+species.epithetflaviventris          -0.355104   0.633504  -0.561
+species.epithetgallus                -0.282114   0.599159  -0.471
+species.epithetgeminatum             -0.263066   0.422189  -0.623
+species.epithetglomerata             -0.252635   0.430134  -0.587
+species.epithetgoodei                -0.135991   0.628226  -0.216
+species.epithetgrisella              -0.138467   0.459854  -0.301
+species.epithetguttata               -0.033844   0.604524  -0.056
+species.epithethageni                -0.288244   0.422189  -0.683
+species.epithethirundo               -0.267550   0.648607  -0.412
+species.epithethudsonicus            -0.426406   0.628016  -0.679
+species.epithetinteger               -0.417289   0.422189  -0.988
+species.epithetmajor                 -0.152646   0.599404  -0.255
+species.epithetmaniculatus           -0.426030   0.611732  -0.696
+species.epithetmarina                -0.134883   0.624305  -0.216
+species.epithetmelanogaster          -0.270223   0.375149  -0.720
+species.epithetmelba                 -0.355497   0.652460  -0.545
+species.epithetmexicana               0.184215   0.591530   0.311
+species.epithetmichahellis           -0.045595   0.618616  -0.074
+species.epithetmolesta                0.034691   0.459854   0.075
+species.epithetmulatta               -0.146829   0.660934  -0.222
+species.epithetmultiradiatus         -0.096917   0.644003  -0.150
+species.epithetmusculus              -0.158550   0.574733  -0.276
+species.epithetnaumanni               0.153865   0.670931   0.229
+species.epithetnorvegicus            -0.071947   0.616813  -0.117
+species.epithetpennsylvanica         -0.329977   0.519013  -0.636
+species.epithetpicta                 -0.366910   0.600493  -0.611
+species.epithetpulcher               -0.387756   0.594330  -0.652
+species.epithetpurpuratus            -0.136493   0.607110  -0.225
+species.epithetpygmaeus/abelii        0.036530   0.621075   0.059
+species.epithetpyrrhonota             0.072574   0.632292   0.115
+species.epithetquoyii                -0.303969   0.633293  -0.480
+species.epithetremigis               -0.172647   0.455092  -0.379
+species.epithetrerio                  0.168746   0.633328   0.266
+species.epithetreticulata            -0.103708   0.602814  -0.172
+species.epithetrustica                0.034979   0.611328   0.057
+species.epithetsalar                  0.061031   0.670931   0.091
+species.epithetsclopetarius          -0.363652   0.505445  -0.719
+species.epithetscrofa                -0.182139   0.629845  -0.289
+species.epithetsechellensis          -0.386644   0.638005  -0.606
+species.epithetsiquia                -0.138542   0.635199  -0.218
+species.epithetstriatus              -0.330882   0.652460  -0.507
+species.epithetsungorus              -0.360691   0.634176  -0.569
+species.epithetsylvatica             -0.501002   0.650502  -0.770
+species.epithettasmanica              0.015531   0.623191   0.025
+species.epithettaurus                -0.263127   0.652811  -0.403
+species.epithettroglodytes           -0.139575   0.626117  -0.223
+species.epithettrutta                -0.360739   0.635245  -0.568
+species.epithetundecimpunctata        0.202982   0.435170   0.466
+species.epithetvespilloides          -0.289115   0.357576  -0.809
+species.epithetvitripennis            0.296255   0.422287   0.702
+species.epithetvivipara              -0.065391   0.650502  -0.101
+species.epithetvulgaris              -0.287615   0.455092  -0.632
+optimizer (nloptwrap) convergence code: 0 (OK)
+boundary (singular) fit: see help('isSingular')
+
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + Class + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: -0.3
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.3238 -0.5078 -0.1686  0.2827  5.4919 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.02463  0.1569  
+ Residual             0.04337  0.2083  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.253020   0.066673   3.795
+BehaviorAggression       0.024779   0.065932   0.376
+BehaviorBoldness        -0.022526   0.057131  -0.394
+BehaviorCommunication    0.437963   0.145018   3.020
+BehaviorExploratory     -0.043307   0.072021  -0.601
+BehaviorForaging        -0.018377   0.077283  -0.238
+BehaviorMating           0.009509   0.076097   0.125
+BehaviorMigration        0.129619   0.104529   1.240
+BehaviorOther           -0.049294   0.068420  -0.720
+BehaviorParental Effort -0.058588   0.082993  -0.706
+BehaviorSocial          -0.007896   0.080543  -0.098
+ClassAmphibia           -0.011830   0.126196  -0.094
+ClassArachnida          -0.094953   0.149865  -0.634
+ClassAves                0.073251   0.064861   1.129
+ClassBivalvia            0.133615   0.142287   0.939
+ClassCephalopoda         0.277957   0.191530   1.451
+ClassInsecta             0.003778   0.071653   0.053
+ClassMammalia            0.008771   0.070478   0.124
+ClassPolychaeta          0.446475   0.280345   1.593
+ClassReptilia           -0.055987   0.225297  -0.249
+ClassReptilia           -0.028883   0.178149  -0.162
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + Order + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: 9.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.3261 -0.5096 -0.1518  0.2670  5.3118 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.02070  0.1439  
+ Residual             0.04395  0.2097  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                         Estimate Std. Error t value
+(Intercept)              0.242649   0.146849   1.652
+BehaviorAggression       0.011898   0.067224   0.177
+BehaviorBoldness         0.004487   0.058768   0.076
+BehaviorCommunication    0.523783   0.151001   3.469
+BehaviorExploratory     -0.036059   0.073732  -0.489
+BehaviorForaging        -0.032002   0.086958  -0.368
+BehaviorMating          -0.031625   0.084485  -0.374
+BehaviorMigration        0.115859   0.130154   0.890
+BehaviorOther           -0.051955   0.073107  -0.711
+BehaviorParental Effort -0.052232   0.089563  -0.583
+BehaviorSocial           0.008915   0.081415   0.110
+OrderApodiformes        -0.100085   0.293748  -0.341
+OrderAraneae            -0.086495   0.196737  -0.440
+OrderArtiodactyla        0.092224   0.179106   0.515
+OrderCanalipalpata       0.470606   0.315919   1.490
+OrderCarnivora          -0.327638   0.232933  -1.407
+OrderCaudata             0.005516   0.230770   0.024
+OrderCharadriiformes    -0.068817   0.226103  -0.304
+OrderCichliformes       -0.048461   0.203990  -0.238
+OrderColeoptera          0.017137   0.181258   0.095
+OrderCypriniformes       0.437952   0.253208   1.730
+OrderCyprinodontiformes  0.049867   0.165975   0.300
+OrderDiptera            -0.065511   0.171788  -0.381
+OrderFalconiformes       0.231637   0.315919   0.733
+OrderGalliformes        -0.055579   0.170500  -0.326
+OrderGasterosteiformes  -0.068857   0.167809  -0.410
+OrderHemiptera           0.055461   0.301545   0.184
+OrderHymenoptera         0.241462   0.205185   1.177
+OrderLepidoptera         0.181679   0.194154   0.936
+OrderMecoptera          -0.059507   0.301545  -0.197
+OrderOdonata            -0.020243   0.230918  -0.088
+OrderOrthoptera         -0.161876   0.253597  -0.638
+OrderPasseriformes       0.122731   0.152380   0.805
+OrderPectinida           0.238172   0.230918   1.031
+OrderPectinidae          0.014297   0.218698   0.065
+OrderPiciformes          0.153814   0.258534   0.595
+OrderPrimates            0.120512   0.171509   0.703
+OrderRodentia           -0.014551   0.155237  -0.094
+OrderSalmoniformes      -0.029403   0.220771  -0.133
+OrderSepiidae            0.272120   0.224205   1.214
+OrderSquamata            0.049247   0.217419   0.227
+OrderTestudines         -0.168904   0.262935  -0.642
+Linear mixed model fit by REML ['lmerMod']
+Formula: Zr ~ Behavior + species.epithet + (1 | Study.ID)
+   Data: data
+
+REML criterion at convergence: 19.5
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.6617 -0.4391 -0.0930  0.2656  4.9561 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Study.ID (Intercept) 0.03401  0.1844  
+ Residual             0.04419  0.2102  
+Number of obs: 476, groups:  Study.ID, 101
+
+Fixed effects:
+                                      Estimate Std. Error t value
+(Intercept)                           0.501036   0.344516   1.454
+BehaviorAggression                    0.033640   0.076413   0.440
+BehaviorBoldness                      0.001557   0.063478   0.025
+BehaviorCommunication                 0.417577   0.169345   2.466
+BehaviorExploratory                  -0.028759   0.086583  -0.332
+BehaviorForaging                     -0.062123   0.103562  -0.600
+BehaviorMating                       -0.146827   0.124571  -1.179
+BehaviorMigration                    -0.064743   0.271667  -0.238
+BehaviorOther                        -0.125025   0.084859  -1.473
+BehaviorParental Effort              -0.112613   0.201232  -0.560
+BehaviorSocial                       -0.010454   0.085898  -0.122
+species.epithetaculeatus             -0.326757   0.360852  -0.906
+species.epithetalbicollis            -0.128970   0.473181  -0.273
+species.epithetananassae             -0.074212   0.421216  -0.176
+species.epithetanubis x cynocephalus -0.122317   0.399337  -0.306
+species.epithetaries                 -0.077219   0.412185  -0.187
+species.epithetbirchmanni            -0.438174   0.418139  -1.048
+species.epithetborealis               0.076029   0.436763   0.174
+species.epithetbotrana                0.128925   0.425565   0.303
+species.epithetcaeruleus             -0.250588   0.421668  -0.594
+species.epithetcanadensis            -0.181316   0.419728  -0.432
+species.epithetcanaria               -0.080300   0.387237  -0.207
+species.epithetcastaneum             -0.359770   0.400970  -0.897
+species.epithetcaudatus               0.229958   0.395466   0.581
+species.epithetcinereus              -0.222750   0.410290  -0.543
+species.epithetcrocuta               -0.551653   0.408681  -1.350
+species.epithetcynipsea              -0.248214   0.434131  -0.572
+species.epithetdianthus               0.392821   0.473181   0.830
+species.epithetdomestica             -0.309178   0.434131  -0.712
+species.epithetdomesticus            -0.216859   0.311663  -0.696
+species.epithetflaviventris          -0.355144   0.418406  -0.849
+species.epithetgallus                -0.282207   0.364284  -0.775
+species.epithetgeminatum             -0.263112   0.421125  -0.625
+species.epithetglomerata             -0.252793   0.429090  -0.589
+species.epithetgoodei                -0.136266   0.410367  -0.332
+species.epithetgrisella              -0.138945   0.458870  -0.303
+species.epithetguttata               -0.034079   0.373035  -0.091
+species.epithethageni                -0.288290   0.421125  -0.685
+species.epithethirundo               -0.267563   0.440958  -0.607
+species.epithethudsonicus            -0.426464   0.410048  -1.040
+species.epithetinteger               -0.417334   0.421125  -0.991
+species.epithetmajor                 -0.152491   0.364675  -0.418
+species.epithetmaniculatus           -0.426086   0.384622  -1.108
+species.epithetmarina                -0.134844   0.404342  -0.333
+species.epithetmelanogaster          -0.269898   0.374237  -0.721
+species.epithetmelba                 -0.355543   0.446586  -0.796
+species.epithetmexicana               0.184212   0.351581   0.524
+species.epithetmichahellis           -0.045595   0.395466  -0.115
+species.epithetmolesta                0.034213   0.458870   0.075
+species.epithetmulatta               -0.147307   0.458870  -0.321
+species.epithetmultiradiatus         -0.097395   0.434131  -0.224
+species.epithetmusculus              -0.158553   0.322502  -0.492
+species.epithetnaumanni               0.153852   0.473181   0.325
+species.epithetnorvegicus            -0.072037   0.392653  -0.183
+species.epithetpennsylvanica         -0.330036   0.419728  -0.786
+species.epithetpicta                 -0.366910   0.366471  -1.001
+species.epithetpulcher               -0.387756   0.356282  -1.088
+species.epithetpurpuratus            -0.136532   0.377227  -0.362
+species.epithetpygmaeus/abelii        0.036415   0.399337   0.091
+species.epithetpyrrhonota             0.072459   0.416568   0.174
+species.epithetquoyii                -0.304004   0.418085  -0.727
+species.epithetremigis               -0.172805   0.454105  -0.381
+species.epithetrerio                  0.168694   0.418139   0.403
+species.epithetreticulata            -0.104021   0.370255  -0.281
+species.epithetrustica                0.034986   0.383974   0.091
+species.epithetsalar                  0.061018   0.473181   0.129
+species.epithetsclopetarius          -0.363727   0.402829  -0.903
+species.epithetscrofa                -0.182210   0.412844  -0.441
+species.epithetsechellensis          -0.386444   0.425185  -0.909
+species.epithetsiquia                -0.138464   0.420967  -0.329
+species.epithetstriatus              -0.330927   0.446586  -0.741
+species.epithetsungorus              -0.360608   0.419422  -0.860
+species.epithetsylvatica             -0.501036   0.443721  -1.129
+species.epithettasmanica              0.015490   0.402621   0.038
+species.epithettaurus                -0.263198   0.447098  -0.589
+species.epithettroglodytes           -0.139657   0.407134  -0.343
+species.epithettrutta                -0.360819   0.421037  -0.857
+species.epithetundecimpunctata        0.202504   0.434131   0.466
+species.epithetvespilloides          -0.289115   0.356282  -0.811
+species.epithetvitripennis            0.295777   0.421216   0.702
+species.epithetvivipara              -0.065425   0.443721  -0.147
+species.epithetvulgaris              -0.287773   0.454105  -0.634

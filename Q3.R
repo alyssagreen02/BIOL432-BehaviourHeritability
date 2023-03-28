@@ -92,3 +92,6 @@ ggplot(data, aes(x=Behavior, y=Predicted)) +
   geom_boxplot() +
   theme_classic()+
   theme(axis.text.x = element_text(angle=90))+ylab("Predicted Heritability")+xlab("Behaviour")
+
+#Save workspace
+save.image(file = "Q3.RData")

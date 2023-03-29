@@ -1,0 +1,187 @@
+---
+title: "Question 2"
+author: "Eva Burguete-Innocente & Elliot Gavrin"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Question 1a: How does heritability change as you move up the taxonomic rank?
+1b: How do the different variables (domestication, thermy, vertebrates etc.) affect heritability?
+Hypothesis 1a: Heritability will increase/decrease as you move up the taxonomic rank.
+1b: Heritability will change based on the different levels of vertebrate, thermy, domestication, and lab/field conditions. 
+
+Loading necessary packages:
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(stringr)
+library(lmtest)
+library(lme4)
+library(tidyr)
+library(RColorBrewer)
+```
+
+Reading in the data and checking it:
+
+```{r}
+data<-read.csv("Data/Compiled2.csv")
+head(data)
+str(data)
+```
+
+Using regular expressions to filter out mistakes in the data:
+
+```{r}
+data%>%
+  filter(str_detect(Genus,"^T"))
+
+#remove Tachymarptis\xa0 and replace with Tachymarptis
+
+data$Genus<-gsub("Tachymarptis\xa0","Tachymarptis",data$Genus)
+
+```
+
+Plotting the effects of other variables on heritability. 
+
+```{r}
+ggplot(data,aes(L.F,Zr))+geom_boxplot()
+
+ggplot(data,aes(Thermy,Zr))+geom_boxplot()
+
+ggplot(data,aes(Vert,Zr))+geom_boxplot()
+
+ggplot(data,aes(D.W,Zr))+geom_boxplot() 
+```
+
+Plotting how Zr differs across taxa and within taxonomic ranks.
+
+```{r}
+ggplot(data,aes(Phylum,Zr,fill=Phylum))+geom_boxplot() 
+
+ggplot(data,aes(Class,Zr,fill=Class))+geom_boxplot()
+
+ggplot(data,aes(Order,Zr,fill=Order))+geom_boxplot()+theme(legend.position="none")
+
+ggplot(data,aes(Family,Zr,fill=Family))+geom_boxplot()+theme(legend.position="none")
+
+ggplot(data,aes(Genus,Zr,fill=Genus))+geom_boxplot()+theme(legend.position="none")
+
+ggplot(data,aes(species.epithet,Zr,fill=species.epithet))+geom_boxplot()+theme(legend.position="none")
+```
+
+Creating data for plotting and plotting the average heritability of each group within each taxonomic rank. 
+
+```{r}
+
+pivotdat<-data%>%
+  select(Phylum,Class,Order,Family,Genus,species.epithet,Zr)%>%
+  group_by(Phylum,Class,Order,Family,Genus,species.epithet)%>%
+  mutate(meanZr=mean(Zr))
+
+longdat<-pivot_longer(pivotdat,cols=c("Phylum","Class","Order","Family","Genus","species.epithet"),names_to="Rank",values_to="Name")
+
+longdatplot<-longdat%>%
+  group_by(Rank,Name)%>%
+  mutate(meanZr=mean(Zr))%>%
+  select(Rank,Name,meanZr)
+
+ggplot(longdatplot,aes(Rank,meanZr,fill=Rank))+geom_boxplot()+theme(legend.position="none")
+
+phylum<-longdatplot%>%
+  filter(Rank=="Phylum")%>%
+  summarise(mean(meanZr))
+
+class<-longdatplot%>%
+  filter(Rank=="Class")%>%
+  summarise(mean(meanZr))
+
+order<-longdatplot%>%
+  filter(Rank=="Order")%>%
+  summarise(mean(meanZr))
+
+family<-longdatplot%>%
+  filter(Rank=="Family")%>%
+  summarise(mean(meanZr))
+
+genus<-longdatplot%>%
+  filter(Rank=="Genus")%>%
+  summarise(mean(meanZr))
+
+species<-longdatplot%>%
+  filter(Rank=="species.epithet")%>%
+  summarise(mean(meanZr))
+
+plotdat2<-rbind(phylum,class,order,family,genus,species)
+plotdat2<-plotdat2%>%
+  mutate(avg=`mean(meanZr)`)%>%
+  select(Rank,Name,avg)
+
+rankplot<-ggplot(plotdat2,aes(Rank,avg,fill=Rank))+geom_boxplot()+theme_bw()+ylab("Average Heritability")+xlab("Taxonomic Rank")+scale_x_discrete(limits = c("Phylum", "Class","Order","Family","Genus","species.epithet"),labels= c("Phylum", "Class","Order","Family","Genus","Species"))+scale_fill_brewer(palette="YlOrRd")+theme(legend.position="none")
+rankplot
+```
+
+Creating linear mixed effects models including multiple combinations of variables and running a likelihood to see which is the best. 
+
+```{r}
+MixedModel <- lmer(Zr ~ Vert*Thermy*D.W*L.F + (1|Study.ID) + (1|Family/Genus/species.epithet), data = data)
+
+summary(MixedModel)
+
+MixedModel1 <- lmer(Zr ~ Vert*Thermy*D.W + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data) 
+
+MixedModel1a <- lmer(Zr ~ Vert*Thermy*L.F + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data)
+
+MixedModel1b <- lmer(Zr ~ Vert*D.W*L.F + (1|Study.ID) +(1|Family/Genus/species.epithet),data = data)
+
+MixedModel1c <- lmer(Zr ~ Vert*Thermy*D.W + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data) #Best Model according to lrtest
+
+MixedModel1d <- lmer(Zr ~ Thermy*D.W*L.F + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data)
+
+MixedModel2 <- lmer(Zr ~ Vert*Thermy + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data)
+
+MixedModel2a <- lmer(Zr ~ Vert*D.W + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data)
+
+MixedModel2b <- lmer(Zr ~ Vert*L.F + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data)
+
+MixedModel2c <- lmer(Zr ~ D.W*Thermy + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data)
+
+MixedModel2d <- lmer(Zr ~ L.F*Thermy + (1|Study.ID)+(1|Family/Genus/species.epithet),data = data)
+
+MixedModel2e <- lmer(Zr ~ L.F*D.W + (1|Study.ID)+ (1|Family/Genus/species.epithet),data = data) #Best Model according to lrtest
+
+MixedModel3 <- lmer(Zr ~ Vert + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data)
+
+MixedModel3a <- lmer(Zr ~ Thermy + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data) #Best Model according to lrtest
+
+MixedModel3b <- lmer(Zr ~ D.W + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data)
+
+
+MixedModel3c <- lmer(Zr ~ L.F + (1|Study.ID)+(1|Family/Genus/species.epithet), data = data)
+
+lrtest(MixedModel, MixedModel1, MixedModel1a, MixedModel1b,MixedModel1c,MixedModel1d,MixedModel2,MixedModel2a,MixedModel2b,MixedModel2c,MixedModel2d,MixedModel2e, MixedModel3,MixedModel3a,MixedModel3b,MixedModel3c) 
+```
+
+Using AIC and BIC to evaluate how well the models perform. 
+
+```{r}
+AIC(MixedModel, MixedModel1, MixedModel1a, MixedModel1b,MixedModel1c,MixedModel1d,MixedModel2,MixedModel2a,MixedModel2b,MixedModel2c,MixedModel2d,MixedModel2e, MixedModel3,MixedModel3a,MixedModel3b,MixedModel3c)
+
+BIC(MixedModel, MixedModel1, MixedModel1a, MixedModel1b,MixedModel1c,MixedModel1d,MixedModel2,MixedModel2a,MixedModel2b,MixedModel2c,MixedModel2d,MixedModel2e, MixedModel3,MixedModel3a,MixedModel3b,MixedModel3c)
+```
+
+Plotting lmer models and plotting the effects of the fixed effects on heritability. 
+
+```{r}
+library(sjPlot) #for plotting lmer models
+tab_model(MixedModel1c,
+                  show.re.var= TRUE,
+                  pred.labels =c("(Intercept)", "Vertebrate", "Endotherm", "Semi-domesticated", "Wild", "Vertebrate × Wild", "Endotherm × Semi-domesticated"),
+                  dv.labels= "Effects of Fixed Effects on Heritability")
+
+p <-sjPlot::plot_model(MixedModel1c,axis.labels=c("Endotherm × Semi-domesticated", "Vertebrate × Wild", "Wild", "Semi-domesticated", "Endotherm", "Vertebrate", "Endotherm × Semi-domesticated"),
+                   show.values=TRUE, show.p=TRUE,
+                   title="Effects of Fixed Effects on Heritability")
+p+theme_sjplot()
+```
+

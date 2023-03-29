@@ -1,0 +1,28 @@
+---
+author: "Marco Yip"
+date: "2023-03-09"
+fig_width: 20
+fig_length: 40
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(ape)
+library(phytools)
+library(MCMCglmm)
+library(ggtree)
+
+
+setwd("/Users/marcoyip/Desktop/BIOL 432")
+Data=read.csv("Compiled2.csv")
+
+Tree<-read.tree("Dochter_etal(TREE).txt")
+
+par(mar = c(2, 2, 2, 2))
+ggtree(Tree, layout = "circular") + geom_tiplab(size=2.3, colour ="blue") + ggplot2::xlim(0, 58)
+```

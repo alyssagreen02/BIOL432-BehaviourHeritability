@@ -6,9 +6,9 @@ output: html_document
 ---
 
 Question 1a: How does heritability change as you move up the taxonomic rank?
-1b: How do the different variables (domestication, thermy, vertebrates etc.) affect heritability?
+1b: How do the different traits (domestication, thermy, vertebrates etc.) affect heritability?
 Hypothesis 1a: Heritability will increase/decrease as you move up the taxonomic rank.
-1b: Heritability will change based on the different levels of vertebrate, thermy, domestication, and lab/field conditions. 
+1b: Heritability will change based on the different levels of traits (vertebrate, thermy, domestication, and lab/field conditions). 
 
 Loading necessary packages:
 

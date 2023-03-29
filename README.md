@@ -9,19 +9,19 @@ This project analyses meta-analysis data from "The Heritability of Behavior: A M
 
 ##Data
 
--Estimate.ID: unique ID for each estimate. 
--Study.ID: unique ID associated with the source paper. 
--Vert: vertebrate or invertebrate. 
--Thermy: endo- or ectotherm. 
--Phylum, Class, Order, Family, Genus, species.epithet: Phylogenetic information for the species associated with the estimate. 
--phylo: species name as it occurs in the phylogenetic tree. 
--D.W.: domesticated or wild species. 
--L.F.: estimate was made in lab or field conditions. 
--Behavior: behavioral category corresponding to estimate.
--N: sample size at the highest hierarchical level. 
--N.C.: alternative sample size to address whether inflated precision biased results. 
--Heritability: h2 estimate. 
--Zr: transformed estimate. Transformed using Fisher's z-transformation by the original authors. 
+*Estimate.ID: unique ID for each estimate. 
+*Study.ID: unique ID associated with the source paper. 
+*Vert: vertebrate or invertebrate. 
+*Thermy: endo- or ectotherm. 
+*Phylum, Class, Order, Family, Genus, species.epithet: Phylogenetic information for the species associated with the estimate. 
+*phylo: species name as it occurs in the phylogenetic tree. 
+*D.W.: domesticated or wild species. 
+*L.F.: estimate was made in lab or field conditions. 
+*Behavior: behavioral category corresponding to estimate.
+*N: sample size at the highest hierarchical level. 
+*N.C.: alternative sample size to address whether inflated precision biased results. 
+*Heritability: h2 estimate. 
+*Zr: transformed estimate. Transformed using Fisher's z-transformation by the original authors. 
 
 ##Analyses
 

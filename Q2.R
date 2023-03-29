@@ -88,10 +88,12 @@ LRT=lrtest(Mod1, Mod2, Mod3, Mod4, Mod5, Mod6, Mod7, Mod8, Mod9, Mod10, Mod11)
 data$Predicted <- predict(Mod3, data)
 
 #Plot data
-ggplot(data, aes(x=Behavior, y=Predicted)) +
-  geom_boxplot() +
+data$Behavior=as.factor(data$Behavior)
+ggplot(data, aes(x=Behavior, y=Predicted, fill=Behavior)) +
+  geom_boxplot(show.legend = FALSE) +
   theme_classic()+
   theme(axis.text.x = element_text(angle=90))+ylab("Predicted Heritability")+xlab("Behaviour")
 
 #Save workspace
 save.image(file = "Q2.RData")
+

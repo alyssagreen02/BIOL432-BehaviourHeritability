@@ -1,5 +1,5 @@
 ---
-title: "Question 2"
+title: "Question 1a and 1b"
 author: "Eva Burguete-Innocente & Elliot Gavrin"
 date: "`r Sys.Date()`"
 output: html_document
